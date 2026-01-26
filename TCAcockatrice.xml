@@ -1,0 +1,4517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name></name>
+      <longname></longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Segovian Angel</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance</text>
+    </card>
+    <card>
+      <name>Leonin Traveler</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Cat Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+    </card>
+    <card>
+      <name>Cybernertics Enthusiast</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, if it is an artifact, put a +1/+1 counter on another target creature you control.
+Rebuild (When this creature dies, if it wasn’t an artifact, return it to the battlefield under its owner’s control except it’s an artifact in addition to its other types.)</text>
+    </card>
+    <card>
+      <name>Vitality Spirit</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Siphon 2: This creature gets +1/+1 and has flying until end of turn. (Remove two non -1/-1 counters from target creature you control or put two -1/-1 counters on it.)</text>
+    </card>
+    <card>
+      <name>Topigoth Frontliner</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dog Warlock Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature enters with three +1/+1 counters on it.
+When this creature deals combat damage to a player, you may siphon 2. If you do, endure 1. (Remove two non -1/-1 counters from target creature you control or put two -1/-1 counters on it.)</text>
+    </card>
+    <card>
+      <name>Passionate Instructor</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dog Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
+When this creature enters, put a training counter on target creature you control. (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)</text>
+    </card>
+    <card>
+      <name>Scolding Syncophant</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Eager (When this creature enters, you may activate one of its activated abilities without paying its cost.)
+2W, {T}: Tap target creature.</text>
+    </card>
+    <card>
+      <name>Promised Honor</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 white Soldier creature tokens.
+Reiterate 1W (If you would draw a card while this card is in your graveyard, you may instead cast this card for its reiterate cost from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Inspiring Commissar</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Cat Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature becomes tapped, up to one target creature with lesser power gains hope until end of turn. This ability only triggers only once per turn. (Prevent all damage that would be dealt to attacking creatures with hope.)</text>
+    </card>
+    <card>
+      <name>Dairy Profiteer</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Cow Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature enters with a milk counter for each Forest and Plains you control.
+Remove a milk counter from this creature: Target creature gains first strike until end of turn. Activate this ability only once a turn.</text>
+    </card>
+    <card>
+      <name>Summoning Circle</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Instant - Trap </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>If two or more creatures entered under an opponent’s control this turn, you may pay 1W rather than pay this spell’s mana cost.
+Create a 3/3 colorless Construct creature token.</text>
+    </card>
+    <card>
+      <name>Angel of Agriculture</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Angel Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Plainscycling {1} ({1}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Bodily Purity</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Bodily Purity deals 3 damage to target attacking or blocking creature. If that creature was modified or transformed, Bodily Purity deals 5 damage to that creature instead. (Equipment, Auras you control, and counters are modifications.)</text>
+    </card>
+    <card>
+      <name>Penance</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature has “At the beginning of your upkeep, repent 1.” (Put a +1/+1 counter on that creature and tap it. If it was already tapped, put a stun counter on it.)
+4WW: You may exile enchanted creature. Exile this enchantment.</text>
+    </card>
+    <card>
+      <name>Whaling Harpoon</name>
+      <set rarity="common" splitterPath="/Whaling Harpoon.png" ></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 3 (When this artifact enters or you tap any number of creatures you control with total power 3 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I — Destroy target creature with power 4 or greater.
+II — Create two Food tokens.
+III — You may sacrifice a Food. If you do, search your library for an Equipment card, reveal that card, put it into your hand, then shuffle.
+---
+(Back): Well-Kitted Umiak</text>
+      <related attach="transform">Well-Kitted Umiak</related>
+    </card>
+    <card>
+      <name>Well-Kitted Umiak</name>
+      <set rarity="common" splitterPath="/Well-Kitted Umiak.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Vehicle </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Vigilance
+If this Vehicle blocks or becomes blocked by a creature with higher power, it gets +2/+0 and gains first strike until end of turn.
+Crew 3
+---
+(Front): Whaling Harpoon</text>
+    </card>
+    <card>
+      <name>Battle Theory</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+2 until end of turn.
+Create a Clue token.</text>
+    </card>
+    <card>
+      <name>Customized Sword</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever equipped creature attacks, if that creature doesn’t have a keyword counter on it, put your choice of a first strike, lifelink, or vigilance counter on it. (A keyword counter is a counter that grants an ability)
+Equip 1W</text>
+    </card>
+    <card>
+      <name>Evocative Oration</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on each creature you control.
+Reiterate 1W (If you would draw a card while this card is in your graveyard, you may instead cast this card for its reiterate cost from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Destroy False Idols</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Kindred Instant - Cleric </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target artifact or enchantment.</text>
+    </card>
+    <card>
+      <name>Segovian Sphinx</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Sphinx </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever this creature enters, surveil 1.</text>
+    </card>
+    <card>
+      <name>Saprazzan Poet</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Merfolk Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>0/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you draw your second card each turn or this creature becomes tapped, put a +1/+1 counter on this creature. This ability only triggers twice each turn.</text>
+    </card>
+    <card>
+      <name>Fallaji Archaelogist</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Scout </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, mill three cards. You may put a noncreature, nonland card from among the cards milled this way into your hand. If you don’t, put a +1/+1 counter on this creature. </text>
+    </card>
+    <card>
+      <name>Focused Librarian</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Sphinx </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance, defender
+Record — This creature loses defender until end of turn. (Whenever a player scries, surveils, or searchers their library, this creature loses defender until end of turn)</text>
+    </card>
+    <card>
+      <name>Study Group Organizer</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward—Each opponent draws a card. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player has each opponent draw a card.)
+Delirium — This creature gets +2/+1 and has vigilance as long as there are four or more card types among cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>Crookclaw Spellshaper</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Bird Wizard Spellshaper </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Eager (When this creature enters, you may activate one of its activated abilities without paying its cost.)
+{U}, {T}, Discard a card: Switch target creature’s power and toughness until end of turn.</text>
+    </card>
+    <card>
+      <name>Substitute Doll</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Construct </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature dies, draw a card.
+Decoy 1U (1U, Return a blocking creature you control to hand: Put this card onto the battlefield from your hand blocking a creature the returned creature was blocking)</text>
+    </card>
+    <card>
+      <name>Eyeing Proctor</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Sphinx Advisor </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, ward—Reveal your hand. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player reveals their hand.)
+Islandcycling {1} ({1}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Serpent of Shenmeng</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>5U</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Leviathan </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Threshold — When this creature enters, choose one. If you have seven or more cards in your graveyard, choose two instead.
+• Tap target creature an opponent controls and put a stun counter on it.
+• Proliferate</text>
+    </card>
+    <card>
+      <name>Study Room</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, draw a card then discard a card.
+Each creature you control with toughness greater than its power excavates Discoveries using its toughness rather than its power.</text>
+    </card>
+    <card>
+      <name>Refute</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell. Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Public Funding</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, you may behold a Discovery.
+Counter target spell unless its controller pays {2}. If a Discovery was beheld, counter that spell unless its controller pays {4} instead.</text>
+    </card>
+    <card>
+      <name>Hunting Net</name>
+      <set rarity="common" splitterPath="/Hunting Net.png" ></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 3 (When this artifact enters or you tap any number of creatures you control with total power 3 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I, II — Tap target creature and put a stun counter on it.
+III — Scry X, where X is the number of tapped creatures your opponents control.
+---
+(Back): Mastercraft Netting</text>
+      <related attach="transform">Mastercraft Netting</related>
+    </card>
+    <card>
+      <name>Mastercraft Netting</name>
+      <set rarity="common" splitterPath="/Mastercraft Netting.png" ></set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When this Aura enters the battlefield, tap enchanted creature.
+Enchanted creature doesn’t untap during its controller’s untap step.
+---
+(Front): Hunting Net</text>
+    </card>
+    <card>
+      <name>Review the Material</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards.
+Reiterate {U} (If you would draw a card while this card is in your graveyard, you may instead cast this card for its reiterate cost from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Reclassify</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw three cards. Then discard two cards unless you discard a double-faced card or a card with reiterate.</text>
+    </card>
+    <card>
+      <name>Into the Roil</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Kicker 1U (You may pay an additional 1U as you cast this spell.)
+Return target nonland permanent to its owner’s hand. If this spell was kicked, draw a card.</text>
+    </card>
+    <card>
+      <name>Greater Mirror Image</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Kindred Enchantment - Wizard Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature
+Enchanted creature has hexproof and can’t be blocked except by X or more creatures, where X is the number of time counters on this permanent.
+Vanishing 3 (This permanent enters with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)</text>
+    </card>
+    <card>
+      <name>Cursed by the Narrative</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a Cursed Role token attached to target creature. (If there is another Role on it, put that one into the graveyard. Enchanted creature is 1/1.)
+Reiterate 1U (If you would draw a card while this card is in your graveyard, you may instead cast this card for its reiterate cost from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Feeling of Being Followed</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Manifest dread (Look at the top two cards of your library, then put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it’s a creature card.)
+Reiterate 3U (If you would draw a card while this card is in your graveyard, you may instead cast this card for its reiterate cost from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Segovian Demon</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to cast this spell, pay 2 life.
+Flying, lifelink</text>
+    </card>
+    <card>
+      <name>Poxbearing Vampire</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Corrode (Whenever this deals damage to a creature without a -1/-1 counter on it, put a -1/-1 counter on that creature. Otherwise, destroy that creature.)</text>
+    </card>
+    <card>
+      <name>Eyeblight Pursuer</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Decoy 4B (4B, Return a blocking creature you control to hand: Put this card onto the battlefield from your hand blocking a creature the returned creature was blocking)</text>
+    </card>
+    <card>
+      <name>Equine Zombie</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horse Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Multikicker {B} (You may pay an additional {B} any number of times as you cast this spell.)
+When this creature enters or when you cast a kicked spell, target opponent loses 1 life and you gain 1 life for each time it was kicked.</text>
+    </card>
+    <card>
+      <name>Work in Progress</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Rebuild (When this creature dies, if it wasn’t an artifact, return it to the battlefield under its owner’s control except it’s an artifact in addition to its other types.)
+When this creature dies, each player discards a card for each card type this creature had when it died.</text>
+    </card>
+    <card>
+      <name>Corpseshield Warlock</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Zombie Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as this creature has a counter on it, it has lifelink.
+When this creature enters or attacks, you may sacrifice a creature. If you do, put a shield counter on this creature. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)</text>
+    </card>
+    <card>
+      <name>Porcelain Doll</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Toy </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender, ward—Discard a card. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)
+Delirium — At the beginning of combat on your turn, if you have four or more card types among cards in your graveyard, this creature loses defender until end of turn.</text>
+    </card>
+    <card>
+      <name>Pharika&apos;s Prodigy</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Snake </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Constellation — Whenever this creature or another enchantment you control enters, target creature you control gets deathtouch until end of turn.</text>
+    </card>
+    <card>
+      <name>Beastly Bloodsucker</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Vampire  </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Delirium — This card costs {1} less to cast for each card type among cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>Rakdos Opener</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Demon Performer </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature enters, each opponent discards a card. If an opponent can’t, draw a card.
+Swampcycling {1} ({1}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Poisoned Blowgun</name>
+      <set rarity="common" splitterPath="/Poisoned Blowgun.png" ></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 3 (When this artifact enters or you tap any number of creatures you control with total power 3 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I, II — If target creature was dealt damage this turn, destroy it. Otherwise it gets -1/-1 until end of turn.
+III — This Discovery deals 1 damage to target player or planeswalker. You gain 1 life.
+---
+(Back): Big-Game Blowgun</text>
+      <related attach="transform">Big-Game Blowgun</related>
+    </card>
+    <card>
+      <name>Big-Game Blowgun</name>
+      <set rarity="common" splitterPath="/Big-Game Blowgun.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>This equipment enters with a toxin counter on it.
+Whenever equipped creature deals combat damage to a creature with deathtouch, put a toxin counter on this Equipment.
+Remove a toxin counter from this Equipment: Equipped creature gains first strike and deathtouch until end of turn
+Equip {3}
+---
+(Front): Poisoned Blowgun</text>
+    </card>
+    <card>
+      <name>Draining Studies</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets -1/-1 until end of turn for each mana spent to cast this spell.
+Reiterate XB (If you would draw a card while this card is in your graveyard, you may instead cast this card for its reiterate cost from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Disciple&apos;s Blade</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Kindred Artifact - Warlock </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, each opponent sacrifices a creature.</text>
+    </card>
+    <card>
+      <name>Topigoth Ritual</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature’s color.)
+Put a -1/-1 counter on each creature that convoked this spell.
+Destroy target creature.</text>
+    </card>
+    <card>
+      <name>Devil Dealings</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Raid — Make a deal. If you attacked this turn, instead choose one. (To make a deal, choose one. Target opponent chooses another and its targets.)
+• Target player discards two cards.
+• Target player draws two cards and loses 2 life.</text>
+    </card>
+    <card>
+      <name>Graveyard Looting</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, discard a card.
+Return target creature card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Duress</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.</text>
+    </card>
+    <card>
+      <name>Revelry</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature
+Enchanted creature gets +2/+0.
+Remove a counter from enchanted creature: Return this Aura to its owner’s hand</text>
+    </card>
+    <card>
+      <name>Cybernetic Implants</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+0.
+Whenever this Equipment becomes unattached from a permanent, sacrifice that permanent.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Segovian Dragon</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>During your turn, this creature has flying.
+{R}: This creature gets +1/+0 until end of turn. Activate no more than twice each turn.</text>
+    </card>
+    <card>
+      <name>Windup Archer</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Toy </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+Exhaust — Discard a card: Draw a card. Activate only if this creature is tapped. (Activate each exhaust ability only once.)</text>
+    </card>
+    <card>
+      <name>Erratic Enlister</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Sorcerer </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of combat on your turn, you may sacrifice a creature or artifact. If you do, this creature gains mobilize 2 until end of turn. (Whenever this creature attacks, create two tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them the beginning of the next end step.)</text>
+    </card>
+    <card>
+      <name>Hunted Victim</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Goblin Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When this creature dies, investigate for each source that dealt damage to it this turn. (To investigate, create a Clue token. It’s an artifact with “{2}, Sacrifice this artifact: Draw a card.”)</text>
+    </card>
+    <card>
+      <name>Uppers Fixer</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Goblin Spellshaper </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Eager (When this creature enters, you may activate one of its activated abilities without paying its cost.)
+{R}, {T}, Discard a card: The next creature spell you cast this turn becomes blitzed. (It gains haste and “When this creature dies, draw a card.” Sacrifice it at the beginning of the next end step.)
+Blitz 1R</text>
+    </card>
+    <card>
+      <name>Overworking Overseer</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Scientist </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of combat on your turn, if you control two or more tapped creatures, you may untap target tapped creature you control. If you do, sacrifice that creature at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Righteous Rascal</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Goblin Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Renown first strike (When this creature creature deals combat damage to a player, if it isn’t renowned, put a first strike counter on it and it becomes renowned.)</text>
+    </card>
+    <card>
+      <name>Obsessive Toymaker</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dwarf Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Artifact creatures you control have haste.
+Rebuild (When this creature dies, if it wasn’t an artifact, return it to the battlefield under its owner’s control except it’s an artifact in addition to its other types.)</text>
+    </card>
+    <card>
+      <name>Dvati Puppeteers</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dvati Bard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When you cast this spell, copy it.
+At the beginning of each end step, if you don’t control another Dvati, sacrifice this creature.
+Boast — 1R: Create a 1/1 white Toy artifact creature token. If this ability was activated before the declare blockers step, it enters tapped and attacking.</text>
+    </card>
+    <card>
+      <name>Snapping Whelp</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+Mountaincycling {1} ({1}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Double Lightning</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Double Lightning deals 3 damage to any target.
+Reiterate 1R (If you would draw a card while this card is in your graveyard, you may instead cast this card for its reiterate cost from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Melt</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Corrode (Whenever this deals damage to a creature without a -1/-1 counter on it, put a -1/-1 counter on that creature. Otherwise, destroy that creature.)
+Choose one —
+• Melt deals 2 damage to target creature
+• Destroy target artifact.</text>
+    </card>
+    <card>
+      <name>Kaupauer&apos;s Quickblast</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Kindred Instant - Arcane Sorcerer </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Split Second (As long as this spell is on the stack, players can’t cast spells or activate abilities that aren’t mana abilities.)
+Kaupauer’s Quickblast deals 1 damage to any target.</text>
+    </card>
+    <card>
+      <name>Avalanche Riding</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Snow Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player sacrifices a land they control. Then, each creature you control gets +1/+0 for each land sacrificed this way.</text>
+    </card>
+    <card>
+      <name>Zealotry</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature bookburns, then if you discard a card this turn, draw a card. (You may discard any number of cards. If you discarded a card this way, draw a card and that creature gets +X/+0 and gains haste until end of turn, where X is the number of card types among cards discarded this way.)</text>
+    </card>
+    <card>
+      <name>Extradimensional Agility</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature gains menace and flanking. (Whenever a creature without flanking blocks that creature, the blocking creature gets -1/-1 until end of turn.)</text>
+    </card>
+    <card>
+      <name>Spring-Powered Boxing Glove</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+When this Equipment enters, attach it to target creature you control. That creature gains first strike until end of turn.
+Equipped creature gets +1/+0.
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Warrior&apos;s Bola</name>
+      <set rarity="common" splitterPath="/Warrior's Bola.png" ></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 2 (When this artifact enters or you tap any number of creatures you control with total power 2 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I — Deal 1 damage to target creature. It can’t block this turn.
+II — Deal 1 damage to target planeswalker. Its abilities can’t be activated this turn.
+III — Deal 1 damage to target player.
+---
+(Back): Bola Master</text>
+      <related attach="transform">Bola Master</related>
+    </card>
+    <card>
+      <name>Bola Master</name>
+      <set rarity="common" splitterPath="/Bola Master.png" ></set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Spellshaper Warrior </type>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Eager (When this creature enters, you may activate one of its activated abilities without paying its cost.)
+Haste
+{R}, {T}: Discard a card from your hand: Target creature can’t block this turn.
+---
+(Front): Warrior&apos;s Bola</text>
+    </card>
+    <card>
+      <name>Fixer Upper</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Vehicle </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of combat on your turn, roll a d6.
+1 | This Vehicle deals 1 damage to you.
+2-3 | Create a Junk token. (It’s an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)
+4-6 | This Vehicle becomes an artifact creature until end of turn.</text>
+    </card>
+    <card>
+      <name>Segovian Hydra</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Hydra </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+This creature enters with a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>Digsite Intern</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The first time this creature becomes tapped each turn, add one mana of any color.</text>
+    </card>
+    <card>
+      <name>Moody Bear</name>
+      <set rarity="common" splitterPath="/Moody Bear.png" ></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bear </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature becomes tapped, put a stun counter on it.
+Whenever this creature becomes untapped, transform it.
+---
+(Back): Mama Bear</text>
+      <related attach="transform">Mama Bear</related>
+    </card>
+    <card>
+      <name>Mama Bear</name>
+      <set rarity="common" splitterPath="/Mama Bear.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bear </type>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters or transforms into Mama Bear, create two 2/2 green Bear tokens.
+---
+(Front): Moody Bear</text>
+    </card>
+    <card>
+      <name>Yavimayan Anthropologist</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elf Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, look at the top five cards of your library. You may reveal a land or double-faced card from among them and put that card into your hand. Put the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Kraul Antiquer</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Insect Druid </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Eager (When this creature enters, you may activate one of its activated abilities without paying its cost.)
+When this creature dies, you may activate one of its activated abilities without paying its cost.
+2G, {T}: Surveil 1</text>
+    </card>
+    <card>
+      <name>Strategic Spider</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spider </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Reach, deathtouch
+Whenever this creature blocks a creature with flying, this creature gets +0/+5 until end of turn.</text>
+    </card>
+    <card>
+      <name>Overburdened Serf</name>
+      <set rarity="common" splitterPath="/Overburdened Serf.png" ></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Delirium — At the beginning of combat, if you have four or more card types among cards in your graveyard, transform this creature.
+---
+(Back): Wits-End Werewolf</text>
+      <related attach="transform">Wits-End Werewolf</related>
+    </card>
+    <card>
+      <name>Wits-End Werewolf</name>
+      <set rarity="common" splitterPath="/Wits-End Werewolf.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Creature - Werewolf </type>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample, haste
+At the beginning of your end step, transform this creature.
+---
+(Front): Overburdened Serf</text>
+    </card>
+    <card>
+      <name>Bookworm Swarm</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Worm </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, you may discard a card or pay {2}. If you do, destroy target Discovery.</text>
+    </card>
+    <card>
+      <name>Hidden Beast</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Decoy 2G (2G, Return a blocking creature you control to hand: Put this card onto the battlefield from your hand blocking a creature the returned creature was blocking)</text>
+    </card>
+    <card>
+      <name>Lumbering Hydra</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Hydra </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature enters with seven +1/+1 counters.
+If damage would be dealt to this creature while it has a +1/+1 counter on it, prevent that damage and remove that many +1/+1 counters from it.
+Forestcycling {1} ({1}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+    </card>
+    <card>
+      <name>Common Hydra</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XG</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Hydra </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+This creature enters with X +1/+1 counters on it.</text>
+    </card>
+    <card>
+      <name>Snapping Bite</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell you may behold a Hydra.
+When you cast this spell, if a Hydra was beheld, copy this spell.
+Target creature you control deals damage equal to its power to target creature.</text>
+    </card>
+    <card>
+      <name>Undergrowth Maneuver</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Kindred Instant - Druid </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +2/+2 and gains hexproof until end of turn.</text>
+    </card>
+    <card>
+      <name>Rotting Rage</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +3/+0 and gains mulch 3 until end of turn. (Whenever that creature dies, return it the the battlefield face down under its owner’s control. It’s a Forest land with vanishing 3.)</text>
+    </card>
+    <card>
+      <name>Rediscover</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Mill three cards, then you may return a creature, land or Discovery card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Berry Bushel Bulwark</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature
+When this Aura enters, enchanted creature gains hexproof until end of turn.
+When this Aura leaves the battlefield, draw a card.</text>
+    </card>
+    <card>
+      <name>Antique Boomerang</name>
+      <set rarity="common" splitterPath="/Antique Boomerang.png" ></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 3 (When this artifact enters or you tap any number of creatures you control with total power 3 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I, II — Destroy target creature with flying.
+III — Create a Food token.
+---
+(Back): Perfected Boomerang</text>
+      <related attach="transform">Perfected Boomerang</related>
+    </card>
+    <card>
+      <name>Perfected Boomerang</name>
+      <set rarity="common" splitterPath="/Perfected Boomerang.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this enters, attach it to target creature you control.
+Equipped creature has reach.
+{T}, Unattach this Equipment: This Equipment deals 1 damage to any target. If a creature died this way, attach this Equipment to target creature you control.
+Equip {2}
+---
+(Front): Antique Boomerang</text>
+    </card>
+    <card>
+      <name>AGR101</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Reiterate 1G (If you would draw a card while this card is in your graveyard, you may instead cast this card for its reiterate cost from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Nature&apos;s Reclaim</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+Entwine 2G (Choose both if you pay the entwine cost.)</text>
+    </card>
+    <card>
+      <name>Field Archaeologist</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Scientist Scout </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature becomes tapped, scry 1.
+This creature has first strike as long as it’s tapped.
+This creature excavates Discoveries, saddles Mounts, crews Vehicles, and stations permanents as though its power were 2 greater.</text>
+    </card>
+    <card>
+      <name>Orzhov Collector</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+This creature enters with a +1/+1 counter on it.
+Afterlife X, where X is the number of different counters on Orzhov Collector (Whenever this creature dies, create X 1/1 white and black Spirit creature tokens with flying.)</text>
+    </card>
+    <card>
+      <name>Bargain Hunter</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, investigate. (Create a Clue token. It’s an artifact with “{2}, Sacrifice this artifact: Draw a card.”)
+Whenever you sacrifice an artifact, enchantment, or token, put a +1/+1 counter on this creature.</text>
+    </card>
+    <card>
+      <name>Belfry Bellower</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+Haunt (When this creature dies, exile it haunting target creature.)
+Whenever an opponent draws their second card each turn or the creature it haunts attacks, create a 1/1 white and black Spirit creature token with flying.</text>
+    </card>
+    <card>
+      <name>Noble Martyr</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Angel Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When this creature enters the battlefield, if it is blocking, it gets +2/+2 until end of turn.
+Decoy 1W (1W, Return a blocking creature you control to hand: Put this card onto the battlefield from your hand blocking a creature the returned creature was blocking)</text>
+    </card>
+    <card>
+      <name>Democratic Representative</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>While voting, each player may tap any number of untapped creatures they control for that many additional votes.
+When this creature attacks, starting with you each player votes for progress or obstruction. If progress gets more votes, put a +1/+1 counter on target creature you control. If obstruction gets more votes or the vote is tied, tap target creature an opponent controls.</text>
+    </card>
+    <card>
+      <name>Intern Workforce</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W // 2W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery // Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 white Scientist creature tokens.
+--- 
+Create a 2/2 Scientist creature token with “Scientists you control excavate Discoveries as though their power was 2 greater.”</text>
+    </card>
+    <card>
+      <name>Worksite Accident</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spells costs {2} less to cast if it targets a creature that excavated a Discovery this turn.
+Destroy target tapped creature.
+Reiterate 2W (If you would draw a card while this card is in your graveyard, you may instead cast this card for its reiterate cost from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Start Over</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature. If it wasn’t attacking or blocking, create a 1/1 token copy of it.</text>
+    </card>
+    <card>
+      <name>Sub Sandwich</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this artifact enters, draw a card.
+{2}, {T}, Sacrifice this artifact: Gain 1 life for each different noncreature subtype in your graveyard.</text>
+    </card>
+    <card>
+      <name>Lost in a Blizzard</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Snow Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this enchantment enters, target creature phases out until this enchantment leaves the battlefield. Tap that creature as it phases in this way.</text>
+    </card>
+    <card>
+      <name>Illusory Trap</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant - Trap </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>If an opponent has four or more types among cards in their graveyard, you may pay {U} rather then pay this card’s mana cost.
+Create two 1/1 blue Illusion creature tokens with flying.</text>
+    </card>
+    <card>
+      <name>LUCA, Progenitor</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Jellyfish Sponge </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+When LUCA enters, return a creature you control to its owner’s hand.
+{T}: Target creature loses your choice of flying, first strike, or trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Lecturing Professor</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Sphinx Advisor </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Eager (When this creature enters, you may activate one of its activated abilities without paying its cost.)
+{1}, {T}: Draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Supergoyf</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Lhurghoyf Hero </type>
+        <maintype>Creature</maintype>
+        <pt>*/*+1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, ward {2}
+Supergoyf’s power is equal to twice the number of supertypes among cards in all graveyards and its toughness is equal to that number plus 1.</text>
+    </card>
+    <card>
+      <name>Thoughtless Spirit</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Spirit Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever this creature enters or attacks, target player scries 2.
+Record — That player mills two cards.  (Whenever a player scries, surveils, or searchers their library, that player mills two cards)</text>
+    </card>
+    <card>
+      <name>Ambling Island</name>
+      <set rarity="uncommon" splitterPath="/Ambling Island.png" ></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Turtle Discovery </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Excavate 3 (When this artifact enters or you tap any number of other creatures you control with total power 2 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I — This creature gains “{T}: Add UUU. Put a stun counter on this creature.”
+II — This creature gains “whenever this creature attacks, draw a card.”
+III — Return target creature to its owner’s hand.
+---
+(Back): Arisen Aspidochelone</text>
+      <related attach="transform">Arisen Aspidochelone</related>
+    </card>
+    <card>
+      <name>Arisen Aspidochelone</name>
+      <set rarity="uncommon" splitterPath="/Arisen Aspidochelone.png" ></set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>6</cmc>
+        <type>Creature - Turtle </type>
+        <pt>7/9</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever this creature attacks, draw two cards. If you do, exile it. Return it to the battlefield under your control transformed and attacking at the beginning of the declare attackers step on your next turn.
+---
+(Front): Ambling Island</text>
+    </card>
+    <card>
+      <name>Littjaran Mimic</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Illusion </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Convene (You can remove any number of counters from permanents you control to help cast this spell. Each counter you remove while casting this spell pays for {1}.)
+You may have Littjaran Mimic enter the battlefield as a copy of any creature you control.</text>
+    </card>
+    <card>
+      <name>Taxonomical Research</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw a card for each different creature type among creatures you control and among cards in your graveyard to a maximum of five.</text>
+    </card>
+    <card>
+      <name>Citation Needed</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell unless its controller collects evidence 6 (Exile cards with total mana value 6 or greater from their graveyard.)
+Reiterate {U} (If you would draw a card while this card is in your graveyard, you may instead cast this card for its reiterate cost from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Spiral of the Roil</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Return target nonland permanent to its owner’s hand.
+Cycling {U} ({U}, Discard this card: Draw a card.)
+Reiterate 1U (If you would draw a card while this card is in your graveyard, you may instead cast this card for its reiterate cost from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Pinboard Conspiracy</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature can’t attack or block, and its activated abilities can’t be activated. Its controller may collect evidence 3 for that player to ignore this effect until end of turn. (To collect evidence 3, exile cards with total mana value 3 or greater from your graveyard.)</text>
+    </card>
+    <card>
+      <name>Shoe Snapper</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Eager (When this creature enters, you may activate one of its activated abilities without paying its cost.)
+{B}, Remove a counter from this creature: Put you choice of a deathtouch or lifelink counter on this creature.</text>
+    </card>
+    <card>
+      <name>Bloodsucking Bueracrat</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When this deals combat damage to a player, make a deal. (To make a deal, choose one. Target opponent chooses another and its targets.)
+• Put a +1/+1 counter on target creature.
+• Target player draws a card and loses 1 life.</text>
+    </card>
+    <card>
+      <name>Impish Courier</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Imp </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste, phasing (This phases in or out before you untap during each of your untap steps. While it’s phased out, it’s treated as though it doesn’t exist.)
+When this creature phases out, lose 2 life.
+When this creature phases in, draw a card.</text>
+    </card>
+    <card>
+      <name>Withering Sludge</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Ooze </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature enters the battlefield with five +1/+1 counters on it.
+When this creature enters or attacks, Siphon 2. (Remove two non -1/-1 counters from target creature you control or put two -1/-1 counters on it.)</text>
+    </card>
+    <card>
+      <name>Least Man</name>
+      <set rarity="uncommon" splitterPath="/Least Man.png" ></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, put two -1/-1 counters on it.
+Whenever another creature dies, remove a -1/-1 counter from this creature. Then transform it if there are no -1/-1 counters on it.
+---
+(Back): Greatest Werewolf</text>
+      <related attach="transform">Greatest Werewolf</related>
+    </card>
+    <card>
+      <name>Greatest Werewolf</name>
+      <set rarity="uncommon" splitterPath="/Greatest Werewolf.png" ></set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>5</cmc>
+        <type>Creature - Werewolf </type>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At end of combat, put two -1/-1 counters on each creature blocking or blocked by this creature.
+---
+(Front): Least Man</text>
+    </card>
+    <card>
+      <name>Emerald Cockroach Wasp</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Offspring—Sacrifice a creature. (You may sacrifice a creature in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Flying
+Whenever this creature deals combat damage to a creature, tap that and put a stun counter on it.
+Whenever a creature with a stun counter on it dies, create a 1/1 token copy of this creature.</text>
+    </card>
+    <card>
+      <name>Sanguine Imp</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Imp </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature you control dies, create a Blood token. This ability only triggers once per turn. (It’s an artifact with “{1}, {T}, Discard a card, Sacrifice this artifact: Draw a card.”)</text>
+    </card>
+    <card>
+      <name>No Good Options</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Make a deal — (To make a deal, choose one. Target opponent chooses another and its targets.)
+• Target player sacrifices a creature.
+• Target player sacrifices a nontoken creature.
+• Target player loses 2 life and each of their opponents gains 2 life.</text>
+    </card>
+    <card>
+      <name>Collaborative Necromancy</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>XB</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Convene (You can remove any number of counters from permanents you control to help cast this spell. Each counter you remove while casting this spell pays for {1}.)
+Put target creature card mana value X or less from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Bearing the Demon Child</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this enchantment enters, return target creature from your graveyard to the battlefield under target opponent’s control.
+Each creature your opponents control but don’t own can’t be sacrificed and has “at the beginning of your upkeep, you lose 2 life and this creature’s owner draws a card.”</text>
+    </card>
+    <card>
+      <name>Ancient Mural</name>
+      <set rarity="uncommon" splitterPath="/Ancient Mural.png" ></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 2 (When this artifact enters or you tap any number of creatures you control with total power 2 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I, II — Search your library for a card, exile it face down with a havoc counter on it, then shuffle. For as long as those cards remain exiled, you may look at them.
+III — You lose 3 life.
+---
+(Back): Instructions to Havoc</text>
+      <related attach="transform">Instructions to Havoc</related>
+    </card>
+    <card>
+      <name>Instructions to Havoc</name>
+      <set rarity="uncommon" splitterPath="/Instructions to Havoc.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sacrifice three creatures: Until end of turn, you may cast cards you own in exile with mayhem counters on them. If you cast a spell this way pay life equal to its mana value rather than pay its mana cost.
+---
+(Front): Ancient Mural</text>
+    </card>
+    <card>
+      <name>Scrap Enthusiast</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Goblin Sorcerer </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Sacrifice an artifact: This creature gains rebuild until end of turn. (When this creature dies, if it wasn’t an artifact, return it to the battlefield under its owner’s control except it’s an artifact in addition to its other types.)</text>
+    </card>
+    <card>
+      <name>Casper Havesh, Atlas Dragonward</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Kobold </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Partner with Mary, Tusked Steed (When this creature enters, target player may put Mary into their hand from their library, then shuffle.)
+Instant and sorcery cards in your hand gain splice onto Trap. Its splice cost is equal to its mana cost. (As you cast a Trap. spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card’s effects to that spell.)</text>
+    </card>
+    <card>
+      <name>Weird Wizard</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Weird Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Delirium — As long as there are four or more card types among cards in your graveyard, this creature gets +2/+2 and has haste.
+Threshold — As long as seven or more cards are in your graveyard, this creature gets -2/-0 and has flying.</text>
+    </card>
+    <card>
+      <name>Gef, the 8th Wonder</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Enchantment Creature - Mongoose  Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, you may sacrifice an artifact or land. If you do, deal 2 damage to any target.
+When this creature attacks, exile the top card of your library. You may cast that card until end of turn.</text>
+    </card>
+    <card>
+      <name>Choleric Dragon</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature enters create two Yellow-Bile tokens. Those tokens gain eager until end of turn. (It’s an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control gets +1/+0 and gains haste until end of turn.)</text>
+    </card>
+    <card>
+      <name>Thunder Conjurer</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>5RR</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Elemental Spellshaper </type>
+        <maintype>Creature</maintype>
+        <pt>1/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Eager (When this creature enters, you may activate one of its activated abilities without paying its cost.)
+RRR,  {T}, Discard a card: Create a Ball Lightning token. (It’s a RRR 6/1 Elemental token with Trample, Haste, and “At the beginning of the end step, sacrifice this creature.”</text>
+    </card>
+    <card>
+      <name>Miniscule Goblin</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Creature - Goblin </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This creature gets +1/+1 as long as you control another Goblin.</text>
+    </card>
+    <card>
+      <name>Roll the Dice</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose a target, then roll a d20.
+1 | Sacrifice a Treasure token. If you can’t, discard a card and Roll the Dice deals 1 damage to you.
+2-19 | Deal 1 damage to any target, create a Treasure token, and draw a card.
+20 | Deal 3 damage to any target, create three Treasure tokens, and draw a card.</text>
+    </card>
+    <card>
+      <name>Whirling Blade Trap</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery - Arcane Trap </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>You may cast this spell as though it has flash if a creature is attacking.
+Roll a d20.
+1-9 | Whirling Blade Trap deals 1 damage to each creature.
+10-19 | Whirling Blade Trap deals 2 damage to each creature.
+20 | Whirling Blade Trap deals 2 damage to each creature your opponents control.</text>
+    </card>
+    <card>
+      <name>Spitting Fumarole</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Snow Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Spitting Fumarole deals 4 damage to target creature
+Splice onto activated ability 1R (As pay for an activated ability spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card’s effects to that activated ability.)</text>
+    </card>
+    <card>
+      <name>Abandoned Mineshaft</name>
+      <set rarity="uncommon" splitterPath="/Abandoned Mineshaft.png" ></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 2 (When this artifact enters or you tap any number of creatures you control with total power 2 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I — Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle their library.
+II — Create a Treasure token.
+III — This Discovery deals 1 damage to each player. Draw a card.
+---
+(Back): Dwarven Prospector</text>
+      <related attach="transform">Dwarven Prospector</related>
+    </card>
+    <card>
+      <name>Dwarven Prospector</name>
+      <set rarity="uncommon" splitterPath="/Dwarven Prospector.png" ></set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dwarf </type>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Whenever this creature attacks, defending player may sacrifice a land. If they do, untap this creature and remove it from combat.
+---
+(Front): Abandoned Mineshaft</text>
+    </card>
+    <card>
+      <name>Phlegmatic Imp</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Imp </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature dies, create a Phlegm token. (It’s an artifact with “{2}, {T}, Sacrifice this artifact: Mill three cards.)</text>
+    </card>
+    <card>
+      <name>Great Cultivator</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Druid </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature becomes tapped, put a level counter on it.
+Level up {2}
+[level 3-7] Trample
+[level 8+] Trample, Vigilance
+LEVEL 3-7
+4/4
+
+LEVEL 8+
+8/8
+</text>
+    </card>
+    <card>
+      <name>Aspiring Transhumanist</name>
+      <set rarity="uncommon" splitterPath="/Aspiring Transhumanist.png" ></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Kicker 2U  (You may pay an additional 2U as you cast this spell.)
+As this creature enters, if it was kicked, it gains eager until end of turn.  (When this creature enters, you may activate one of its activated abilities without paying its cost.)
+Trample
+3U: Transform this creature. Activate only as a sorcery.
+---
+(Back): Simic Fanaticist</text>
+      <related attach="transform">Simic Fanaticist</related>
+    </card>
+    <card>
+      <name>Simic Fanaticist</name>
+      <set rarity="uncommon" splitterPath="/Simic Fanaticist.png" ></set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Jellyfish Cat </type>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance, trample
+This creature can block only creatures with flying.
+---
+(Front): Aspiring Transhumanist</text>
+    </card>
+    <card>
+      <name>Riverclan Hunter</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Cat Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Gift an Island (You may promise an opponent a gift as you cast this spell. If you do they create an Island token. It’s an Island land token.”
+Vigilance
+Whenever this creature deals combat damage to a player, create a Food token.
+{2}, {T}, Sacrifice a Food: Cats you control gain Islandwalk until end of turn.</text>
+    </card>
+    <card>
+      <name>Mary, Tusked Steed</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elephant Mount </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Partner with Casper Havesh, Atlas Dragonward (When this creature enters, target player may put Casper Havesh into their hand from their library, then shuffle.)
+Trample</text>
+    </card>
+    <card>
+      <name>Clutch of Eggs</name>
+      <set rarity="uncommon" splitterPath="/Clutch of Eggs.png" ></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dinosaur Egg </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters the battlefield, if it isn’t a token, create two tokens that are copies of it.
+When this creature dies, return it to the battlefield transformed.
+---
+(Back): Chittering Hatchling</text>
+      <related attach="transform">Chittering Hatchling</related>
+    </card>
+    <card>
+      <name>Chittering Hatchling</name>
+      <set rarity="uncommon" splitterPath="/Chittering Hatchling.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dinosaur </type>
+        <pt>*/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+This creature’s power is equal to the number of Dinosaurs you control.
+---
+(Front): Clutch of Eggs</text>
+    </card>
+    <card>
+      <name>Oozedra</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XGG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Ooze Hydra </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+This creature enters with X +1/+1 counters.
+If damage would be dealt to this creature while it has a +1/+1 counter on it, prevent that damage and remove that many +1/+1 counters from it, then create a token copy of this creature. It enters with a number of +1/+1 counters equal to half the number of counters removed this way, rounded down.</text>
+    </card>
+    <card>
+      <name>Hibernating Colony</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>X2G</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Incubate 2 X times, then transform target token you control. (To incubate 2, create an Incubator token with two +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Phyrexian artifact creature.)</text>
+    </card>
+    <card>
+      <name>Forgotten Stockpile</name>
+      <set rarity="uncommon" splitterPath="/Forgotten Stockpile.png" ></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 3 (When this artifact enters or you tap any number of creatures you control with total power 3 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I — Create a tapped Treasure token.
+II — Put your choice of a +1/+1 or reach counter on target creature you control.
+III — Create a Food token for each different counter among permanents you control.
+---
+(Back): Forgotten Recipes</text>
+      <related attach="transform">Forgotten Recipes</related>
+    </card>
+    <card>
+      <name>Forgotten Recipes</name>
+      <set rarity="uncommon" splitterPath="/Forgotten Recipes.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As you discover, you may put a land card from among the exiled cards onto the battlefield tapped.
+2G, {T}, Sacrifice X Food tokens: Discover X. X can’t be 0. (To discover X, exile cards from the top of your library until you exile a nonland card with mana value X or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+---
+(Front): Forgotten Stockpile</text>
+    </card>
+    <card>
+      <name>Rage Powder Trap</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Instant - Trap </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>If a land was put into the graveyard from anywhere this turn by a spell or ability an opponent controlled, you may pay 2G rather than pay this spell’s mana cost.
+Target creature fights another target creature.</text>
+    </card>
+    <card>
+      <name>Melon Catapult</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Eager (When this creature enters, you may activate one of its activated abilities without paying its cost.)
+{2}, {T}: Create a Food token.
+{2}, {T}, Sacrifice a Food: Deal 3 damage to target creature with flying.</text>
+    </card>
+    <card>
+      <name>Pop Alchemist</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Bard Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Create a token Aura with enchant creature and “enchanted creature has +1/+1 for each color of creature you control” attached to target creature you control.</text>
+    </card>
+    <card>
+      <name>Crumbling Church</name>
+      <set rarity="rare" splitterPath="/Crumbling Church.png" ></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 3 (When this artifact enters or you tap any number of creatures you control with total power 3 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I — Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+II — You gain 3 life.
+III — Put your choice of a flying or vigilance counter on target creature you control.
+---
+(Back): Protoangel</text>
+      <related attach="transform">Protoangel</related>
+    </card>
+    <card>
+      <name>Protoangel</name>
+      <set rarity="rare" splitterPath="/Protoangel.png" ></set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Angel </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+When this creature enters, you may exile target non-Angel creature you control, then return that card to the battlefield under its owner’s control.
+---
+(Front): Crumbling Church</text>
+    </card>
+    <card>
+      <name>Charred Bones</name>
+      <set rarity="rare" splitterPath="/Charred Bones.png" ></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 1 (When this artifact enters or you tap any number of creatures you control with total power 1 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I — Scry 1.
+II — Create a Food token.
+III — You may sacrifice an artifact. If you do, draw a card.
+---
+(Back): Ancestor Hominin</text>
+      <related attach="transform">Ancestor Hominin</related>
+    </card>
+    <card>
+      <name>Ancestor Hominin</name>
+      <set rarity="rare" splitterPath="/Ancestor Hominin.png" ></set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human </type>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a Human enters, put a +1/+1 counter on it.
+---
+(Front): Charred Bones</text>
+    </card>
+    <card>
+      <name>Embodiment of Discipline</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Changeling
+As this creature enters, choose Human, Angel, or Cleric.
+Whenever a creature of the chosen type enters or attacks, you may have it repent 1. (Put a +1/+1 counter on this creature and tap it. If it was already tapped, put a stun counter on it.)</text>
+    </card>
+    <card>
+      <name>Chorus of the Angels</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy all creatures.
+When you cycle this card, exile target creature an opponent controls. Its controller may search their library for a land card with a basic land type, put it onto the battlefield tapped, then shuffle.
+Angelcycling 2W</text>
+    </card>
+    <card>
+      <name>Western Clouds</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>XXWW</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player creates X tapped Treasure tokens. They each deal 1 damage to each attacking creature.</text>
+    </card>
+    <card>
+      <name>Mistress of Tithes</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Angel Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+Counter all spells and abilities your opponents control unless they pay {1} for each.</text>
+    </card>
+    <card>
+      <name>Indie Alchemist</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Bard Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Create a token Aura with enchant creature and “enchanted creature has base power and toughness 1/1 and skulk.” attached to target creature you control.</text>
+    </card>
+    <card>
+      <name>Heirloom Scrying Orb</name>
+      <set rarity="rare" splitterPath="/Heirloom Scrying Orb.png" ></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 2 (When this artifact enters or you tap any number of creatures you control with total power 2 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I — Draw two cards, then discard a card.
+II — Scry 3, then surveil 3.
+III — Reveal the top card of your library, if its a noncreature spell. Put a stun counter on each tapped creature.
+---
+(Back): Protosphinx</text>
+      <related attach="transform">Protosphinx</related>
+    </card>
+    <card>
+      <name>Protosphinx</name>
+      <set rarity="rare" splitterPath="/Protosphinx.png" ></set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Creature - Sphinx </type>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature enters or attacks, target opponent chooses creature or noncreature. Reveal the top card of your library, if it is the chosen type, put that card into your hand.
+---
+(Front): Heirloom Scrying Orb</text>
+    </card>
+    <card>
+      <name>Deepsea Pottery</name>
+      <set rarity="rare" splitterPath="/Deepsea Pottery.png" ></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 1 (When this artifact enters or you tap any number of creatures you control with total power 1 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I — Each player mills three cards.
+II — Return target noncreature, nonland card put into your graveyard this turn into your hand.
+III — Put a flood counter on target land. That land is an Island in addition to its other types for as long as it has a flood counter on it.
+---
+(Back): Ancestor Merfolk</text>
+      <related attach="transform">Ancestor Merfolk</related>
+    </card>
+    <card>
+      <name>Ancestor Merfolk</name>
+      <set rarity="rare" splitterPath="/Ancestor Merfolk.png" ></set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Merfolk </type>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Islandwalk (That creature can’t be blocked as long as defending player controls an Island.)
+Exhaust — 2U, {T}: Put an Islandwalk counter on target Merfolk you control.
+---
+(Front): Deepsea Pottery</text>
+    </card>
+    <card>
+      <name>Embodiment of the Archive</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Changeling
+As this creature enters, choose Merfolk, Sphinx, or Wizard.
+Creatures of the chosen type have “Record — draw a card.” (Whenever a player scries, surveils, or searches their library, draw a card.)</text>
+    </card>
+    <card>
+      <name>Cosi&apos;s Prankster</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Merfolk Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Record — Put a +1/+1 counter on this creature. (Whenever a player scries, surveils, or searchers their library, put a +1/+1 counter on this creature)</text>
+    </card>
+    <card>
+      <name>Paralyzing Prophecy</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Tap all creatures target player controls. Put a stun counter on each of them.
+When you cycle this card, tap target creature an opponent controls and put a stun counter on it.
+Sphinxcycling 2U</text>
+    </card>
+    <card>
+      <name>Arcane Fusion</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4U</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery - Arcane </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for an instant or sorcery with mana value 1 and an instant or sorcery with mana value 4 or less, exile them, then shuffle your library. Cast those cards without paying their mana costs. Exile Arcane Fusion.</text>
+    </card>
+    <card>
+      <name>Punk Alchemist</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Bard Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Create a token Aura with enchant creature and “{T}: Add {B}. Put a -1/-1 counter on enchanted creature.” attached to target creature you control.</text>
+    </card>
+    <card>
+      <name>Stone-Carved Sigil</name>
+      <set rarity="rare" splitterPath="/Stone-Carved Sigil.png" ></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 1 (When this artifact enters or you tap any number of creatures you control with total power 1 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I, II — Sacrifice a creature you control. If you do, exile it with a ritual counter on it. 
+III — Create a Treasure token and draw a card. Repeat this process for each creature in exile with a ritual counter on it that you own.
+---
+(Back): Protodemon</text>
+      <related attach="transform">Protodemon</related>
+    </card>
+    <card>
+      <name>Protodemon</name>
+      <set rarity="rare" splitterPath="/Protodemon.png" ></set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Demon </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+This creature has all activated and triggered abilities of each card in exile with a ritual counter on it that you own.
+---
+(Front): Stone-Carved Sigil</text>
+    </card>
+    <card>
+      <name>Ominous Sarcophagus</name>
+      <set rarity="rare" splitterPath="/Ominous Sarcophagus.png" ></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 1 (When this artifact enters or you tap any number of creatures you control with total power 1 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I, II — Each opponent loses 1 life and you gain 1 life.
+III — Target creature gets -1/-1 until end of turn.
+---
+(Back): Ancestor Vampire</text>
+      <related attach="transform">Ancestor Vampire</related>
+    </card>
+    <card>
+      <name>Ancestor Vampire</name>
+      <set rarity="rare" splitterPath="/Ancestor Vampire.png" ></set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Vampire </type>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this enters, put a deathtouch and lifelink counter on another target creature you control. That creature becomes a Vampire in addition to its other types.
+Deathtouch, lifelink
+---
+(Front): Ominous Sarcophagus</text>
+    </card>
+    <card>
+      <name>Embodiment of Rot</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Changeling
+As this creature enters, choose Vampire, Demon, or Warlock.
+Creatures of the chosen type have corrode. (Whenever this deals damage to a creature without a -1/-1 counter on it, put a -1/-1 counter on that creature. Otherwise, destroy that creature.)</text>
+    </card>
+    <card>
+      <name>Pox of Demons</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each player discards a card, then sacrifices a creature.
+When you cycle this card, each player loses 1 life, discards a card, sacrifices a creature of their choice, then sacrifices a land of their choice.
+Demoncycling 1BBB</text>
+    </card>
+    <card>
+      <name>Fell Drain</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a -1/-1 counter on target creature and each creature that was dealt damage this turn.
+Splice onto Arcane 1B (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card’s effects to that spell.)</text>
+    </card>
+    <card>
+      <name>Persistent Pursuer</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as this creature is an artifact, it has first strike.
+When this creature attacks, you may sacrifice another nonland permanent. If you do, put a +1/+1 counter on this creature.
+Rebuild (When this creature dies, if it wasn’t an artifact, return it to the battlefield under its owner’s control except it’s an artifact in addition to its other types.)</text>
+    </card>
+    <card>
+      <name>EDM Alchemist</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Bard Sorcerer </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Create a token Aura with enchant creature and “enchanted creature gets +2/+0 and must attack each turn if able” attached to target creature you control.</text>
+    </card>
+    <card>
+      <name>Volcanic Digsite</name>
+      <set rarity="rare" splitterPath="/Volcanic Digsite.png" ></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 3 (When this artifact enters or you tap any number of creatures you control with total power 3 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I — This Discovery deals 2 damage to any target.
+II — Exile the top two cards of your library. Until end of turn, you may play those cards.
+III — Add RRR.
+---
+(Back): Protodragon</text>
+      <related attach="transform">Protodragon</related>
+    </card>
+    <card>
+      <name>Protodragon</name>
+      <set rarity="rare" splitterPath="/Protodragon.png" ></set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon </type>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+You don’t lose unspent red mana as steps and phases end as long as you control this creature.
+When this creature dies, it deals damage equal to its power to any target.
+{R}: This creature gets +1/+0 until end of turn.
+---
+(Front): Volcanic Digsite</text>
+    </card>
+    <card>
+      <name>Heirloom Spear</name>
+      <set rarity="rare" splitterPath="/Heirloom Spear.png" ></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 1 (When this artifact enters or you tap any number of creatures you control with total power 1 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I — Destroy target artifact.
+II — This Discovery deals 1 damage to each opponent.
+III — You may discard a card. If you do, draw a card.
+---
+(Back): Ancestor Goblin</text>
+      <related attach="transform">Ancestor Goblin</related>
+    </card>
+    <card>
+      <name>Ancestor Goblin</name>
+      <set rarity="rare" splitterPath="/Ancestor Goblin.png" ></set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Goblin </type>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, you may pay {R}. If you do, creatures you control get +1/+0 and gain haste until end of turn.
+---
+(Front): Heirloom Spear</text>
+    </card>
+    <card>
+      <name>Embodiment of Intuition</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Changeling
+As this creature enters, choose Goblin, Dragon, or Sorcerer.
+At the beginning of combat, target creature of the chosen type bookburns. (You may discard any number of cards. If you discarded a card this way, draw a card and that creature gets +X/+0 and gains haste until end of turn, where X is the number of card types among cards discarded this way.)</text>
+    </card>
+    <card>
+      <name>Sparking Dragonflame</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Sparking Dragonflame deals 3 damage to target creature or planeswalker.
+When you cycle this card, it deals 3 damage to each creature and planeswalker.
+Dragoncycling 3RRR</text>
+    </card>
+    <card>
+      <name>Excitable Drake</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+Eager, eager (Each instance of eager triggers separately)
+{R}: This creature gets +1/+0 until end of turn.
+3RR: The next time this creature attacks this turn, put a stun counter on it. If you do, this creature deals damage equal to its power to target non-Dragon creature an opponent controls.</text>
+    </card>
+    <card>
+      <name>Dragonwrought Sorcerer</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon Kobold Sorcerer </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Eager (When this creature enters, you may activate one of its activated abilities without paying its cost.)
+3RR, {T}: Copy target instant or sorcery spell you control. You may choose new targets for the copy.</text>
+    </card>
+    <card>
+      <name>Folk Alchemist</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Bard Druid </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Create a token Aura with enchant creature and “when enchanted creature dies, return it to the battlefield face down under its owner’s control. It’s a Forest land.” attached to target creature you control.</text>
+    </card>
+    <card>
+      <name>Fossilized Vertebrae</name>
+      <set rarity="rare" splitterPath="/Fossilized Vertebrae.png" ></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 2 (When this artifact enters or you tap any number of creatures you control with total power 2 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I — Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+II — Put your choice of a +1/+1 or a trample counter on target creature you control.
+III — At the beginning of the next end step, draw two cards if you control a creature with power 4 or greater.
+---
+(Back): Protohydra</text>
+      <related attach="transform">Protohydra</related>
+    </card>
+    <card>
+      <name>Protohydra</name>
+      <set rarity="rare" splitterPath="/Protohydra.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Creature - Hydra </type>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+This creature enters with X +1/+1 counters on it, where X is the number of lands you control.
+---
+(Front): Fossilized Vertebrae</text>
+    </card>
+    <card>
+      <name>Mossy Shrine</name>
+      <set rarity="rare" splitterPath="/Mossy Shrine.png" ></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 1 (When this artifact enters or you tap any number of creatures you control with total power 1 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I — Scry 1.
+II — This Discovery gains “{T}: Add {G}.”
+III — Untap target Forest you control.
+---
+(Back): Ancestor Elf</text>
+      <related attach="transform">Ancestor Elf</related>
+    </card>
+    <card>
+      <name>Ancestor Elf</name>
+      <set rarity="rare" splitterPath="/Ancestor Elf.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elf </type>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever this creature becomes tapped, untap it. This ability only triggers once each turn.
+{T}: Add {G}.
+---
+(Front): Mossy Shrine</text>
+    </card>
+    <card>
+      <name>Embodiment of Renewal</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt></pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Changeling
+As this creature enters, choose Elf, Hydra, or Druid.
+Creatures of the chosen type have mulch 2. (Whenever this creature dies, return it the the battlefield face down under its owner’s control. It’s a Forest land with vanishing 2.)</text>
+    </card>
+    <card>
+      <name>Yedora&apos;s Apprentice</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Treefolk Druid </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Target creature gains mulch 2 until end of turn. (Whenever that creature dies, return it the the battlefield face down under its owner’s control . It’s a Forest land with vanishing 2.)</text>
+    </card>
+    <card>
+      <name>Splitting Heads</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on target creature, then double the number of +1/+1 counters on that creature.
+When you cycle this card, put a +1/+1 counter on up to three target creatures, then double the number of +1/+1 counters on each of those creatures.
+Hydracycling 5GG</text>
+    </card>
+    <card>
+      <name>Grave-Troll&apos;s Teachings</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one—
+• Put a +1/+1 counter on target creature for each creature card in your graveyard.
+• Remove a +1/+1 counter from target creature. It regenerates.
+Reiterate—Mill six cards.</text>
+    </card>
+    <card>
+      <name>The Demon Child</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Demon </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters and at the beginning of your upkeep, choose one that hasn’t been chosen —
+• This creature deals 2 damage to any target and you gain 2 life.
+• Target opponent discards a card.
+• Draw a card.
+• You lose life equal to half your starting life total.</text>
+    </card>
+    <card>
+      <name>Hidden Temple</name>
+      <set rarity="mythic" splitterPath="/Hidden Temple.png" ></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 2 (When this artifact enters or you tap any number of creatures you control with total power 2 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I, II — Exile target creature you control and put a pilgrimage counter on it.
+III — You gain 3 life.
+---
+(Back): Redemption</text>
+      <related attach="transform">Redemption</related>
+    </card>
+    <card>
+      <name>Redemption</name>
+      <set rarity="mythic" splitterPath="/Redemption.png" ></set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this enchantment enters, return each creature you own in exile with a pilgrimage counter on it to the battlefield, except they are Clerics in addition to their other types.
+Clerics you control get +1/+1 and have lifelink.
+---
+(Front): Hidden Temple</text>
+    </card>
+    <card>
+      <name>Soul of Xerex</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Eager
+4UU: Create a 2/2 white and blue Knight creature token with vigilance.
+4UU: Exile this creature, if you do, take an extra turn after this one. Skip the untap step of that turn.</text>
+    </card>
+    <card>
+      <name>Imposing Tower</name>
+      <set rarity="mythic" splitterPath="/Imposing Tower.png" ></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 2 (When this artifact enters or you tap any number of creatures you control with total power 2 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I — Draw four cards, then discard three cards unless you discard an instant or sorcery.
+II — Draw a card, then discard a card unless you have exactly seven cards in hand.
+III — Exile up to three target instants and/or sorcery cards in your graveyard and put a preparation counter on each card exiled this way.
+---
+(Back): Spellbook of Everything</text>
+      <related attach="transform">Spellbook of Everything</related>
+    </card>
+    <card>
+      <name>Spellbook of Everything</name>
+      <set rarity="mythic" splitterPath="/Spellbook of Everything.png" ></set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Legendary Artifact</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, {T}: Exile target instant and sorcery card in a graveyard with a preparation counter on it.
+{2}, {T}: You may cast a card from exile with a preparation counter on it. If you do, exile it.
+---
+(Front): Imposing Tower</text>
+    </card>
+    <card>
+      <name>Soul of Fiora</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)
+Eager
+4BB: Any number of other target creatures controlled by different players connives X, where X is twice the number of creatures chosen this way.
+4BB: Exile this creature. If you do, you become the monarch and create a black 1/1 Assassin creature token with deathtouch.</text>
+    </card>
+    <card>
+      <name>Oracle Bone Pit</name>
+      <set rarity="mythic" splitterPath="/Oracle Bone Pit.png" ></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 1 (When this artifact enters or you tap any number of creatures you control with total power 1 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I, II — Surveil 1, then if a creature card was put into your graveyard this turn, each opponent loses 1 life and you gain 1 life.
+III — Add B for each creature card in your graveyard.
+---
+(Back): Scalpular Divinations</text>
+      <related attach="transform">Scalpular Divinations</related>
+    </card>
+    <card>
+      <name>Scalpular Divinations</name>
+      <set rarity="mythic" splitterPath="/Scalpular Divinations.png" ></set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>BB, {T}, Sacrifice this artifact: Target player reveals three cards from their hand and you choose one of them. That player discards that card.
+---
+(Front): Oracle Bone Pit</text>
+    </card>
+    <card>
+      <name>Soul of Mercadia</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)
+Eager
+3RR: You may sacrifice a land or discard a card. If you do, draw two cards and create two Treasure tokens.
+3RR: Exile this creature. If you do, creatures get +X/+0 until end of turn, where X is the number of nonbasic lands your opponent controls, then each player sacrifices a nonbasic land.</text>
+    </card>
+    <card>
+      <name>Tattooed Mummy</name>
+      <set rarity="mythic" splitterPath="/Tattooed Mummy.png" ></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 2 (When this artifact enters or you tap any number of creatures you control with total power 2 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I — Exile the top card of your library. During any turn you put an excavation counter on this Discovery, you may play that card.
+II — The next spell you cast from exile this turn has cascade.
+III — Add RR.
+---
+(Back): Lineage of the Sorcerer</text>
+      <related attach="transform">Lineage of the Sorcerer</related>
+    </card>
+    <card>
+      <name>Lineage of the Sorcerer</name>
+      <set rarity="mythic" splitterPath="/Lineage of the Sorcerer.png" ></set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature is a Sorcerer in a addition to its other types.
+Whenever you cast an instant or sorcery, choose one that hasn’t been chosen yet this turn.
+• Enchanted creature deals 2 damage to each opponent.
+• Create a 1/1 red Elemental creature token.
+• Surveil 1.
+---
+(Front): Tattooed Mummy</text>
+    </card>
+    <card>
+      <name>Tarmomancer</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Lhurgoyf Spellshaper </type>
+        <maintype>Creature</maintype>
+        <pt>*/*+1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Eager (When this creature enters, you may activate one of its activated abilities without paying its cost.)
+Tarmomancer’s power is equal to the number of Lhurgoyfs you control and its toughness is equal to that number plus one.
+1G, {T}, Discard a card: Create a Tarmogoyf token. (It’s a 1G Lhurgoyf creature with “Tarmogoyf’s power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.”)</text>
+    </card>
+    <card>
+      <name>Heart of the Forest</name>
+      <set rarity="mythic" splitterPath="/Heart of the Forest.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Artifact Land - Discovery </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Excavate 1 (When this artifact enters or you tap any number of creatures you control with total power 1 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I — This Discovery becomes a Forest in addition to its other types.
+II — Untap this Discovery.
+III — Scry 1.
+---
+(Back): Cradle of the World</text>
+      <related attach="transform">Cradle of the World</related>
+    </card>
+    <card>
+      <name>Cradle of the World</name>
+      <set rarity="mythic" splitterPath="/Cradle of the World.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Legendary Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Tap an untapped creature you control: Add GG.
+{T}, Tap an untapped Druid you control: Add GGG.
+---
+(Front): Heart of the Forest</text>
+    </card>
+    <card>
+      <name>Meticulous Librarian</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>3WU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Sphinx Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When this creature enters, you may search your library for a card with reiterate, put it into your graveyard, then shuffle.
+WU: Exile target card from your graveyard. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Thoughtcriminal</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Specter Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Scrying, surveilling, and searching, counts as committing a crime.
+Whenever you commit a crime, you may pay 1 life. If you do, draw a card, then discard a card. This ability only triggers once per turn.</text>
+    </card>
+    <card>
+      <name>Delirious Bout</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+Enchanted creature has +X/+0, where X is the number of card types among cards in your graveyard.
+{1}, Sacrifice enchanted creature: Enchanted creature deals damage equal to its power to any target.</text>
+    </card>
+    <card>
+      <name>Reluctant Hedonist</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Satyr </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+Each card in your hand with two or more card types has cycling RG.
+Delirium — As long as there are four or more card types among cards in your graveyard, this creature gets +2/+0, has trample, and loses defender.</text>
+    </card>
+    <card>
+      <name>Meddling Metrologist</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Eager (When this creature enters, you may activate one of its activated abilities without paying its cost.)
+{2}, {T}: Remove any number of different kinds of counters from among permanents you control. If you do, put a +1/+1 counter on this creature for each counter removed this way.</text>
+    </card>
+    <card>
+      <name>Topigoth Medicinalist</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dog Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature attacks, choose one.
+• Siphon 1 (Remove a non -1/-1 counters from target creature you control or put a -1/-1 counters on it.)
+• Put a +1/+1 counter on target creature.
+Whenever you remove one or more counters from a permanent you control, you draw a card and lose 1 life.</text>
+    </card>
+    <card>
+      <name>Noggle Marauder</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UU/RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Noggle Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a land and discard a card.
+Trample
+When this creature enters, create a Treasure token and draw a card.</text>
+    </card>
+    <card>
+      <name>Wet Specimen Specialist</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>BG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Insect Scientist </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, surveil 2.
+3BG, {T}: Sacrifice a creature: Return target creature or Discovery from your graveyard to your battlefield transformed.</text>
+    </card>
+    <card>
+      <name>Fervent Archaeologist</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, search your library for a Discovery, reveal it, then put it into your hand, then shuffle.
+Whenever you tap this creature to excavate a Discovery, you may discard a card. If you do, put an extra excavation counter on that Discovery.</text>
+    </card>
+    <card>
+      <name>Peer Review</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>GU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target permanent. If the permanent was transformed, you may return it to the battlefield transformed under its owner’s control. Otherwise return it to the battlefield.</text>
+    </card>
+    <card>
+      <name>Truthseeker</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>WU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+If a permanent would enter the battlefield transformed, exile it instead.</text>
+    </card>
+    <card>
+      <name>Riddling Cryptography</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Kindred Instant - Sphinx </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>The next instant or sorcery spell you cast this turn has cipher. (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)</text>
+    </card>
+    <card>
+      <name>Demonic Confluence</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Kindred Instant - Demon </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Spectacle 5BR (You may cast this spell for its spectacle cost rather than its mana cost if an opponent lost life this turn.)
+Make a deal. If this spell’s spectacle cost was paid, choose three instead. You may choose the same mode more than once. (To make a deal, choose one. Target opponent chooses another and its targets.)
+• Target player discards two cards.
+• Deal 3 damage to target player.
+• Deal 3 damage to target creature.</text>
+    </card>
+    <card>
+      <name>Xenagos&apos; Kylix</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>1RG</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Enchantment Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you attack with two or more creatures, you may discard a card at random. If you do, draw two cards.
+1RG, {T}, Sacrifice a creature: Xenagos’ Kylix deals damage equal to the sacrificed creature’s power to target creature or player.</text>
+    </card>
+    <card>
+      <name>Multi-Headed Pounce</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>XGW</manacost>
+        <cmc>2</cmc>
+        <type>Kindred Instant - Hydra </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control deals damage equal to its power to up to X plus 1 target creatures an opponent control.</text>
+    </card>
+    <card>
+      <name>Death Knell</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a creature.
+Put an exalted counter on up to one target creature you control. (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Draw two cards and create a Treasure token.</text>
+    </card>
+    <card>
+      <name>Hoarding Desires</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Kindred Instant - Dragon </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Bargain (You may sacrifice an artifact, enchantment, or token as you cast this spell.)
+When you cast this spell, if it was bargained, copy it. You may choose new targets for the copy.
+Tap target artifact and gain control of it. It becomes a Treasure with “{T}, Sacrifice this artifact: Add one mana of any color” and loses all other card types and abilities.</text>
+    </card>
+    <card>
+      <name>Humoral Physician</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Creature</type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Eager (When this creature enters, you may activate one of its activated abilities without paying its cost.)
+If you would create a Blood, Yellow-Bile, Black-Bile, or Phlegm token, instead create one of each.
+{1}, {T}: Siphon 2. If you do, create a Blood token. (Remove two non -1/-1 counters from target creature you control or put two -1/-1 counters on it.)</text>
+    </card>
+    <card>
+      <name>Stunning Awe</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Kindred Sorcery - Angel </type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each creature repents 1, then each creature deals damage to itself equal to its power. (Put a +1/+1 counter on that creature and tap it. If it was already tapped, put a stun counter on it.)</text>
+    </card>
+    <card>
+      <name>Elan Psionicist</name>
+      <set rarity="rare" splitterPath="/Elan Psionicist.png" ></set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>1GU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Horror Psion </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Submission 1 (Players dealt combat damage by this creature also get a submission counter.)
+Whenever this creature deals combat damage to a player, proliferate. Then if an opponent has three or more submission counters, transform this creature.
+---
+(Back): Elan Uncarnate</text>
+      <related attach="transform">Elan Uncarnate</related>
+    </card>
+    <card>
+      <name>Elan Uncarnate</name>
+      <set rarity="rare" splitterPath="/Elan Uncarnate.png" ></set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit Psion </type>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward—Discard a card. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)
+Submission 2 (Players dealt combat damage by this creature also get two submission counters.)
+This creature can’t be blocked.
+---
+(Front): Elan Psionicist</text>
+    </card>
+    <card>
+      <name>Leechbot</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Leech </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As an additional cost to cast this creature, you may siphon 1. (Remove a non -1/-1 counters from target creature you control or put a -1/-1 counters on it.)
+When this creature enters, if you siphoned, put a +1/+1 counter on this creature.</text>
+    </card>
+    <card>
+      <name>Build-a-Bear</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Bear Toy </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When this creature enters, choose one.
+• Put a shield counter on this creature. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+• Put a +1/+1 counter on this creature.
+• Put a first strike counter on this creature.</text>
+    </card>
+    <card>
+      <name>Lightning-Core Harvester</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Golem </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Metalcraft — This creature has eager as long as you control three or more artifacts. (When this creature enters, you may activate one of its activated abilities without paying its cost.)
+{5}, {T}, Sacrifice this creature: It deals 3 damage to any target.</text>
+    </card>
+    <card>
+      <name>Sword of Unity</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>12</manacost>
+        <cmc>12</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Affinity for different creature types (This spell costs {1} less to cast for each different creature type you control.)
+Whenever equipped creature attacks, it gets +1/+1 for each different creature type you control, to a maximum of five.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Shooting Star</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Eager (When this artifact enters, you may activate one of its activated abilities without paying its cost.)
+{1}, {T}: Add one mana of any color
+{2}, {T}, Sacrifice this artifact: Draw a card.</text>
+    </card>
+    <card>
+      <name>Army in a Can</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Food </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+When this artifact enters and when you sacrifice it, create a 1/1 blue Fish creature token.
+{2}, {T}, Sacrifice this artifact: You gain 3 life. </text>
+    </card>
+    <card>
+      <name>Bellowing Pit</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+At the end of each player’s draw step, if that player didn’t draw a card this turn, there’s an additional draw step after this. This ability only triggers once each turn.</text>
+    </card>
+    <card>
+      <name>Hopeful Lantern</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Kindred Artifact - Glimmer </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>No more than one undead creature can attack you each turn. (Skeletons, Spirits, Vampires, and Zombies are undead.)</text>
+    </card>
+    <card>
+      <name>Meteor Storm</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Storm
+When this artifact enters, destroy target nonland permanent an opponent controls.</text>
+    </card>
+    <card>
+      <name>Spawning Structure</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of combat on your turn, if no player controls a Glimmer, create a 2/2 colorless Skeleton creature token with reach.</text>
+    </card>
+    <card>
+      <name>Desert Digsite</name>
+      <set rarity="common"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Desert </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>When this land enters, sacrifice it. When you do, search your library for a basic land card, put it onto the battlefield tapped, then shuffle and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Coastal Wetland</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}, Pay 1 life: Add {G}, {W}, or {U}. Activate only if this land didn’t enter the battlefield this turn.</text>
+    </card>
+    <card>
+      <name>Escherian Library</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}. Put a research counter on this land.
+{T}, Remove a research counter from this land: Add {W}, {U}, or {B}.</text>
+    </card>
+    <card>
+      <name>Maddening Temple</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{1}, {T}, Discard a card: Add CU, CB, or CR.</text>
+    </card>
+    <card>
+      <name>Industrial Quarry</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>This land enters with three depletion counters on it.
+{T}: Add {C}.
+{T}: Remove a depletion counter from this land: Add {B}, {R}, or {G}. If there are no depletion counters on this land, sacrifice it.</text>
+    </card>
+    <card>
+      <name>Giant Tracks</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}: Add {C}.
+{T}: Add {R}, {G}, or {W}. Activate only if there is a creature with power 4 or greater on the battlefield.</text>
+    </card>
+    <card>
+      <name>Spiritforge Blacksmith</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dwarf Warlock Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Each Equipment you control has eager. (When that equipment enters, you may activate one of its activated abilities without paying its cost.)</text>
+    </card>
+    <card>
+      <name>Belligerent Bulgasari</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>RG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Beast </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Eager (When this creature enters, you may activate one of its activated abilities without paying its cost.)
+Sacrifice an artifact: This creature gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Wailing Gwishin</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Possess (When this permanent dies, if it was a creature, you may return it to the battlefield as an Aura with enchant creature. Enchanted creature has the following abilities.)
+This creature gets -X/-X, where X is the number of cards in your hand.</text>
+    </card>
+    <card>
+      <name>Assimilate</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a rebuild counter on target creature you control (When that creature dies, if it wasn’t an artifact, return it to the battlefield under its owner’s control except it’s an artifact in addition to its other types.)
+Draw a card</text>
+    </card>
+    <card>
+      <name>Turn Undead Trap</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant - Trap </type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>If an opponent has seven or more cards in their graveyard, you may pay {W} rather then pay this card’s mana cost.
+Exile all graveyards.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Ice Core</name>
+      <set rarity="rare" splitterPath="/Ice Core.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 2 (When this artifact enters or you tap any number of creatures you control with total power 2 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I — This Discovery gains “{T}: Add {C}”
+II — This Discovery gains “{1}, {T}: Surveil 2.”
+III — You may sacrifice this Discovery. If you do, draw a card.
+---
+(Back): Valakut, Bringer of Winter</text>
+      <related attach="transform">Valakut, Bringer of Winter</related>
+    </card>
+    <card>
+      <name>Valakut, Bringer of Winter</name>
+      <set rarity="rare" splitterPath="/Valakut, Bringer of Winter.png" ></set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Legendary Land</type>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>{T}, Sacrifice this land: Add RRR. Skip your next untap step.
+---
+(Front): Ice Core</text>
+    </card>
+    <card>
+      <name>Temporal Sylex</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Legendary Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Temporal Sylex enters the battlefield tapped.
+If a player would begin an extra turn, that player skips that turn instead.
+X3C, {T}, Exile Temporal Sylex: Destroy each nonland permanent with mana value X or less. End the turn. As long as it’s your turn, this ability costs {2} less to activate.</text>
+    </card>
+    <card>
+      <name>Soul of Segovia</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Avatar </type>
+        <maintype>Creature</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Eager
++1: This creature can’t be blocked by creatures with power 3 or greater.
+-3: 3WW: Exile target creature an opponent controls. If you do, its controller creates a token copy of it except it has base power and toughness 1/1.
+-6: 3WW: Exile this creature. If you do, destroy all creatures with mana value 4 or greater.</text>
+    </card>
+    <card>
+      <name>Soul of Ikoria</name>
+      <set rarity="mythic"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Avatar </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Mutate 4GG
+Eager
+Whenever this creature mutates, you may activate one of its activated abilities without paying its costs.
+4GG: Each non-Human creature card in your hand gains mutate until end of turn. Its mutate cost is equal to its mana cost.
+4GG: Exile this creature. If you do, destroy all artifacts and enchantments.</text>
+    </card>
+    <card>
+      <name>Nagging Mage</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Kicker 2U
+When this creature enters, target instant or sorcery card in your graveyard gains reiterate until end of turn. The reiterate cost is equal to its mana cost. Then if this spell was kicked, draw a card.</text>
+    </card>
+    <card>
+      <name>Kraul Forager</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1B/G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Insect Citizen </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Eager
+When this creature enters, counter target activated or triggered ability of a land source.
+{T}: Draw a card. Activate only if a land card was put into a graveyard from anywhere this turn.</text>
+    </card>
+    <card>
+      <name>Knuckleblade Mage</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>URG</colors>
+        <manacost>GUR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Ogre Warrior Spellshaper </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Eager
+{G}, {T}, Discard a card: Target creature gets +3/+3 until end of turn.
+1U, {T}, Discard a card: Return target creature to its owner’s hand.
+{R}, {T}, Discard a card: Target creature you control gains haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Imposing Barrow</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text>Eager (When this land enters, you may activate one of its activated abilities without paying its cost.)
+{T}: Add {C}. If this the second time you’ve activated this ability this turn, you lose 2 life.</text>
+    </card>
+    <card>
+      <name>Hungering Yangban</name>
+      <set rarity="rare"></set>
+      <prop>
+        <colors>M</colors>
+        <manacost>4B // R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Vampire Noble  // Sorcery - Omen </type>
+        <maintype>Creature</maintype>
+    <pt>4/3</pt>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Flying, lifelink, haste
+Miracle—Sacrifice three Blood tokens.
+--- 
+Create a Blood token. (then shuffle this card into its owner’s library.)</text>
+    </card>
+    <card>
+      <name>Times the Chronatog Ate</name>
+      <set rarity="mythic" splitterPath="/Times the Chronatog Ate.png" ></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Saga </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>
+I — Skip your next turn. If you do, target creature gets +3/+3 until end of turn.
+II — Draw three cards.
+III — Exile this Saga, then cast it transformed.
+---
+(Back): Elder Chronatog Dissection</text>
+      <related attach="transform">Elder Chronatog Dissection</related>
+    </card>
+    <card>
+      <name>Elder Chronatog Dissection</name>
+      <set rarity="mythic" splitterPath="/Elder Chronatog Dissection.png" ></set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>This spell can’t be countered.
+Each opponent skips their next turn. For each turn skipped this way, put three +1/+1 counters on up to one target creature you control.
+---
+(Front): Times the Chronatog Ate</text>
+    </card>
+    <card>
+      <name>Ninety-Nine</name>
+      <set rarity="rare" splitterPath="/Ninety-Nine.png" ></set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When Ninety-Nine creature enters, target opponent creates a 2/2 white Noble creature token with vigilance.
+Whenever a Noble dies, transform Ninety-Nine.
+---
+(Back): One Hundred, Ascended</text>
+      <related attach="transform">One Hundred, Ascended</related>
+    </card>
+    <card>
+      <name>One Hundred, Ascended</name>
+      <set rarity="rare" splitterPath="/One Hundred, Ascended.png" ></set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Dragon God </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, trample
+When this creature transforms into One Hundred or attacks, untap up to three target lands you control.
+---
+(Front): Ninety-Nine</text>
+    </card>
+    <card>
+      <name>Ancient Roadway</name>
+      <set rarity="uncommon" splitterPath="/Ancient Roadway.png" ></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Excavate 2 (When this artifact enters or you tap any number of creatures you control with total power 2 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I, II — Whenever one or more creatures you control deal combat damage to a player this turn, put a vigilance counter on one of them.
+III — If you control a creature with a keyword counter on it, draw a card.
+---
+(Back): Pilgrimage Site</text>
+      <related attach="transform">Pilgrimage Site</related>
+    </card>
+    <card>
+      <name>Pilgrimage Site</name>
+      <set rarity="uncommon" splitterPath="/Pilgrimage Site.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Eager (When this creature enters, you may activate one of its activated abilities without paying its cost.)
+{T}: Move a counter from target permanent you control onto this artifact.
+{T}: Move one or more counter from this artifact onto another target permanent.
+---
+(Front): Ancient Roadway</text>
+    </card>
+    <card>
+      <name>Together in Arms</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>W</colors>
+        <manacost>XX1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Convene (You can remove any number of counters from permanents you control to help cast this spell. Each counter you remove while casting this spell pays for 1.)
+-2: Creatures you control get +1/+1 until end of turn. Repeat this process X times.-X: </text>
+    </card>
+    <card>
+      <name>Dampen</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Until end of turn, each player can cast spells only any time they could cast a sorcery.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Melancholic Miasma</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>U</colors>
+        <manacost>XUU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Convene (You can remove any number of counters from permanents you control to help cast this spell. Each counter you remove while casting this spell pays for {1}.)
+Tap up to X target creatures, then create a Black-Bile token for each counter removed to cast this spell. (It’s an artifact with “{1}, {T}, Sacrifice this artifact: Put a stun counter on target tapped creature.)</text>
+    </card>
+    <card>
+      <name>Topigoth Tranfusion</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Siphon 1. If you do, Move all counters from target creature onto another target creature. (Remove a non -1/-1 counters from target creature you control or put a -1/-1 counters on it.)
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Morbid Oppurtunity</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>If a creature died this turn, each opponent loses 2 life and you gain 2 life.
+Surveil 3.</text>
+    </card>
+    <card>
+      <name>Splat</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target land you control deals 5 damage to target creature. If a creature was dealt damage this way, sacrifice that land.</text>
+    </card>
+    <card>
+      <name>Nightmare! Nightmare!</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this enchantment enters, discard a card then draw a card.
+Evoke 1R (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</text>
+    </card>
+    <card>
+      <name>Harass</name>
+      <set rarity="uncommon"></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control fights target creature you don’t control.
+Reiterate {G} (If you would draw a card while this card is in your graveyard, you may instead cast this card for its reiterate cost from your graveyard. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Beauty of Evolution</name>
+      <set rarity="uncommon" splitterPath="/Beauty of Evolution.png" ></set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When this enchantment enters, put a +1/+1 counter on each creature you control.
+At the beginning of your end step, if you control another transformed permanent, transform this enchantment.
+---
+(Back): Follow the Evolved</text>
+      <related attach="transform">Follow the Evolved</related>
+    </card>
+    <card>
+      <name>Follow the Evolved</name>
+      <set rarity="uncommon" splitterPath="/Follow the Evolved.png" ></set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each creature card in your hand has convene. (You can remove any number of counters from permanents you control to help cast this spell. Each counter you remove while casting this spell pays for {1}.)
+---
+(Front): Beauty of Evolution</text>
+    </card>

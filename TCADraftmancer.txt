@@ -1,0 +1,2760 @@
+[CustomCards]
+	[    {
+	        "name": "Segovian Angel",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Segovian Angel.png"
+	        }
+	    },
+	    {
+	        "name": "Leonin Traveler",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Cat Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Leonin Traveler.png"
+	        }
+	    },
+	    {
+	        "name": "Cybernertics Enthusiast",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Cybernertics Enthusiast.png"
+	        }
+	    },
+	    {
+	        "name": "Vitality Spirit",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Vitality Spirit.png"
+	        }
+	    },
+	    {
+	        "name": "Topigoth Frontliner",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Dog Warlock Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Topigoth Frontliner.png"
+	        }
+	    },
+	    {
+	        "name": "Passionate Instructor",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Dog Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Passionate Instructor.png"
+	        }
+	    },
+	    {
+	        "name": "Scolding Syncophant",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Scolding Syncophant.png"
+	        }
+	    },
+	    {
+	        "name": "Promised Honor",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Promised Honor.png"
+	        }
+	    },
+	    {
+	        "name": "Inspiring Commissar",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Cat Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Inspiring Commissar.png"
+	        }
+	    },
+	    {
+	        "name": "Dairy Profiteer",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Cow Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Dairy Profiteer.png"
+	        }
+	    },
+	    {
+	        "name": "Summoning Circle",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Instant — Trap ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Summoning Circle.png"
+	        }
+	    },
+	    {
+	        "name": "Angel of Agriculture",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Creature — Angel Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Angel of Agriculture.png"
+	        }
+	    },
+	    {
+	        "name": "Bodily Purity",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Bodily Purity.png"
+	        }
+	    },
+	    {
+	        "name": "Penance",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Penance.png"
+	        }
+	    },
+	    {
+	        "name": "Whaling Harpoon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Whaling Harpoon.png"
+	        },
+	        "printed names": {
+	            "en": "Whaling Harpoon"
+	        },
+	        "back": {
+	            "name": "Well-Kitted Umiak",
+	            "printed_names": {
+	                "en": "Well-Kitted Umiak"
+	            },
+	            "image_uris": {
+	                "en": "Well-Kitted Umiak.png"
+	            },
+	            "type": "Artifact — Vehicle "
+	        }
+	    },
+	    {
+	        "name": "Battle Theory",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Battle Theory.png"
+	        }
+	    },
+	    {
+	        "name": "Customized Sword",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Customized Sword.png"
+	        }
+	    },
+	    {
+	        "name": "Evocative Oration",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Evocative Oration.png"
+	        }
+	    },
+	    {
+	        "name": "Destroy False Idols",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Kindred Instant — Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Destroy False Idols.png"
+	        }
+	    },
+	    {
+	        "name": "Segovian Sphinx",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Sphinx ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Segovian Sphinx.png"
+	        }
+	    },
+	    {
+	        "name": "Saprazzan Poet",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Merfolk Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Saprazzan Poet.png"
+	        }
+	    },
+	    {
+	        "name": "Fallaji Archaelogist",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Fallaji Archaelogist.png"
+	        }
+	    },
+	    {
+	        "name": "Focused Librarian",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Sphinx ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Focused Librarian.png"
+	        }
+	    },
+	    {
+	        "name": "Study Group Organizer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Study Group Organizer.png"
+	        }
+	    },
+	    {
+	        "name": "Crookclaw Spellshaper",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Bird Wizard Spellshaper ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Crookclaw Spellshaper.png"
+	        }
+	    },
+	    {
+	        "name": "Substitute Doll",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Artifact Creature — Construct ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Substitute Doll.png"
+	        }
+	    },
+	    {
+	        "name": "Eyeing Proctor",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Creature — Sphinx Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Eyeing Proctor.png"
+	        }
+	    },
+	    {
+	        "name": "Serpent of Shenmeng",
+	        "rarity": "common",
+	        "mana_cost": "{5}{U}",
+	        "type": "Creature — Leviathan ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Serpent of Shenmeng.png"
+	        }
+	    },
+	    {
+	        "name": "Study Room",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Artifact Creature — Wall ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Study Room.png"
+	        }
+	    },
+	    {
+	        "name": "Refute",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Refute.png"
+	        }
+	    },
+	    {
+	        "name": "Public Funding",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Public Funding.png"
+	        }
+	    },
+	    {
+	        "name": "Hunting Net",
+	        "mana_cost": "{2}{U}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Hunting Net.png"
+	        },
+	        "printed names": {
+	            "en": "Hunting Net"
+	        },
+	        "back": {
+	            "name": "Mastercraft Netting",
+	            "printed_names": {
+	                "en": "Mastercraft Netting"
+	            },
+	            "image_uris": {
+	                "en": "Mastercraft Netting.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Review the Material",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Review the Material.png"
+	        }
+	    },
+	    {
+	        "name": "Reclassify",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Reclassify.png"
+	        }
+	    },
+	    {
+	        "name": "Into the Roil",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Into the Roil.png"
+	        }
+	    },
+	    {
+	        "name": "Greater Mirror Image",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Kindred Enchantment — Wizard Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Greater Mirror Image.png"
+	        }
+	    },
+	    {
+	        "name": "Cursed by the Narrative",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Cursed by the Narrative.png"
+	        }
+	    },
+	    {
+	        "name": "Feeling of Being Followed",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Feeling of Being Followed.png"
+	        }
+	    },
+	    {
+	        "name": "Segovian Demon",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Segovian Demon.png"
+	        }
+	    },
+	    {
+	        "name": "Poxbearing Vampire",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Vampire Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Poxbearing Vampire.png"
+	        }
+	    },
+	    {
+	        "name": "Eyeblight Pursuer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Elf Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Eyeblight Pursuer.png"
+	        }
+	    },
+	    {
+	        "name": "Equine Zombie",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Horse Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Equine Zombie.png"
+	        }
+	    },
+	    {
+	        "name": "Work in Progress",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Work in Progress.png"
+	        }
+	    },
+	    {
+	        "name": "Corpseshield Warlock",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Zombie Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Corpseshield Warlock.png"
+	        }
+	    },
+	    {
+	        "name": "Porcelain Doll",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Artifact Creature — Toy ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Porcelain Doll.png"
+	        }
+	    },
+	    {
+	        "name": "Pharika's Prodigy",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Enchantment Creature — Snake ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Pharika's Prodigy.png"
+	        }
+	    },
+	    {
+	        "name": "Beastly Bloodsucker",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Vampire  ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Beastly Bloodsucker.png"
+	        }
+	    },
+	    {
+	        "name": "Rakdos Opener",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature — Demon Performer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Rakdos Opener.png"
+	        }
+	    },
+	    {
+	        "name": "Poisoned Blowgun",
+	        "mana_cost": "{B}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Poisoned Blowgun.png"
+	        },
+	        "printed names": {
+	            "en": "Poisoned Blowgun"
+	        },
+	        "back": {
+	            "name": "Big-Game Blowgun",
+	            "printed_names": {
+	                "en": "Big-Game Blowgun"
+	            },
+	            "image_uris": {
+	                "en": "Big-Game Blowgun.png"
+	            },
+	            "type": "Artifact — Equipment "
+	        }
+	    },
+	    {
+	        "name": "Draining Studies",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Draining Studies.png"
+	        }
+	    },
+	    {
+	        "name": "Disciple's Blade",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Kindred Artifact — Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Disciple's Blade.png"
+	        }
+	    },
+	    {
+	        "name": "Topigoth Ritual",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Topigoth Ritual.png"
+	        }
+	    },
+	    {
+	        "name": "Devil Dealings",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Devil Dealings.png"
+	        }
+	    },
+	    {
+	        "name": "Graveyard Looting",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Graveyard Looting.png"
+	        }
+	    },
+	    {
+	        "name": "Duress",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Duress.png"
+	        }
+	    },
+	    {
+	        "name": "Revelry",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Revelry.png"
+	        }
+	    },
+	    {
+	        "name": "Cybernetic Implants",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Cybernetic Implants.png"
+	        }
+	    },
+	    {
+	        "name": "Segovian Dragon",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Segovian Dragon.png"
+	        }
+	    },
+	    {
+	        "name": "Windup Archer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Artifact Creature — Toy ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Windup Archer.png"
+	        }
+	    },
+	    {
+	        "name": "Erratic Enlister",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Sorcerer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Erratic Enlister.png"
+	        }
+	    },
+	    {
+	        "name": "Hunted Victim",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Goblin Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Hunted Victim.png"
+	        }
+	    },
+	    {
+	        "name": "Uppers Fixer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Goblin Spellshaper ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Uppers Fixer.png"
+	        }
+	    },
+	    {
+	        "name": "Overworking Overseer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Scientist ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Overworking Overseer.png"
+	        }
+	    },
+	    {
+	        "name": "Righteous Rascal",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Goblin Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Righteous Rascal.png"
+	        }
+	    },
+	    {
+	        "name": "Obsessive Toymaker",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Dwarf Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Obsessive Toymaker.png"
+	        }
+	    },
+	    {
+	        "name": "Dvati Puppeteers",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Dvati Bard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Dvati Puppeteers.png"
+	        }
+	    },
+	    {
+	        "name": "Snapping Whelp",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Snapping Whelp.png"
+	        }
+	    },
+	    {
+	        "name": "Double Lightning",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Double Lightning.png"
+	        }
+	    },
+	    {
+	        "name": "Melt",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Melt.png"
+	        }
+	    },
+	    {
+	        "name": "Kaupauer's Quickblast",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Kindred Instant — Arcane Sorcerer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Kaupauer's Quickblast.png"
+	        }
+	    },
+	    {
+	        "name": "Avalanche Riding",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Snow Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Avalanche Riding.png"
+	        }
+	    },
+	    {
+	        "name": "Zealotry",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Zealotry.png"
+	        }
+	    },
+	    {
+	        "name": "Extradimensional Agility",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Extradimensional Agility.png"
+	        }
+	    },
+	    {
+	        "name": "Spring-Powered Boxing Glove",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Spring-Powered Boxing Glove.png"
+	        }
+	    },
+	    {
+	        "name": "Warrior's Bola",
+	        "mana_cost": "{R}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Warrior's Bola.png"
+	        },
+	        "printed names": {
+	            "en": "Warrior's Bola"
+	        },
+	        "back": {
+	            "name": "Bola Master",
+	            "printed_names": {
+	                "en": "Bola Master"
+	            },
+	            "image_uris": {
+	                "en": "Bola Master.png"
+	            },
+	            "type": "Creature — Human Spellshaper Warrior "
+	        }
+	    },
+	    {
+	        "name": "Fixer Upper",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Artifact — Vehicle ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Fixer Upper.png"
+	        }
+	    },
+	    {
+	        "name": "Segovian Hydra",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Hydra ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Segovian Hydra.png"
+	        }
+	    },
+	    {
+	        "name": "Digsite Intern",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Elf Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Digsite Intern.png"
+	        }
+	    },
+	    {
+	        "name": "Moody Bear",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Bear ",
+	        "image_uris": {
+	            "en": "Moody Bear.png"
+	        },
+	        "printed names": {
+	            "en": "Moody Bear"
+	        },
+	        "back": {
+	            "name": "Mama Bear",
+	            "printed_names": {
+	                "en": "Mama Bear"
+	            },
+	            "image_uris": {
+	                "en": "Mama Bear.png"
+	            },
+	            "type": "Creature — Bear "
+	        }
+	    },
+	    {
+	        "name": "Yavimayan Anthropologist",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Elf Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Yavimayan Anthropologist.png"
+	        }
+	    },
+	    {
+	        "name": "Kraul Antiquer",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Insect Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Kraul Antiquer.png"
+	        }
+	    },
+	    {
+	        "name": "Strategic Spider",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Spider ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Strategic Spider.png"
+	        }
+	    },
+	    {
+	        "name": "Overburdened Serf",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Human Werewolf ",
+	        "image_uris": {
+	            "en": "Overburdened Serf.png"
+	        },
+	        "printed names": {
+	            "en": "Overburdened Serf"
+	        },
+	        "back": {
+	            "name": "Wits-End Werewolf",
+	            "printed_names": {
+	                "en": "Wits-End Werewolf"
+	            },
+	            "image_uris": {
+	                "en": "Wits-End Werewolf.png"
+	            },
+	            "type": "Creature — Werewolf "
+	        }
+	    },
+	    {
+	        "name": "Bookworm Swarm",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Worm ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Bookworm Swarm.png"
+	        }
+	    },
+	    {
+	        "name": "Hidden Beast",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Hidden Beast.png"
+	        }
+	    },
+	    {
+	        "name": "Lumbering Hydra",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Hydra ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Lumbering Hydra.png"
+	        }
+	    },
+	    {
+	        "name": "Common Hydra",
+	        "rarity": "common",
+	        "mana_cost": "{X}{G}",
+	        "type": "Creature — Hydra ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Common Hydra.png"
+	        }
+	    },
+	    {
+	        "name": "Snapping Bite",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Snapping Bite.png"
+	        }
+	    },
+	    {
+	        "name": "Undergrowth Maneuver",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Kindred Instant — Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Undergrowth Maneuver.png"
+	        }
+	    },
+	    {
+	        "name": "Rotting Rage",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Rotting Rage.png"
+	        }
+	    },
+	    {
+	        "name": "Rediscover",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Rediscover.png"
+	        }
+	    },
+	    {
+	        "name": "Berry Bushel Bulwark",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Berry Bushel Bulwark.png"
+	        }
+	    },
+	    {
+	        "name": "Antique Boomerang",
+	        "mana_cost": "{2}{G}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Antique Boomerang.png"
+	        },
+	        "printed names": {
+	            "en": "Antique Boomerang"
+	        },
+	        "back": {
+	            "name": "Perfected Boomerang",
+	            "printed_names": {
+	                "en": "Perfected Boomerang"
+	            },
+	            "image_uris": {
+	                "en": "Perfected Boomerang.png"
+	            },
+	            "type": "Artifact — Equipment "
+	        }
+	    },
+	    {
+	        "name": "AGR101",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?AGR101.png"
+	        }
+	    },
+	    {
+	        "name": "Nature's Reclaim",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Nature's Reclaim.png"
+	        }
+	    },
+	    {
+	        "name": "Field Archaeologist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Scientist Scout ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Field Archaeologist.png"
+	        }
+	    },
+	    {
+	        "name": "Orzhov Collector",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Orzhov Collector.png"
+	        }
+	    },
+	    {
+	        "name": "Bargain Hunter",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Bargain Hunter.png"
+	        }
+	    },
+	    {
+	        "name": "Belfry Bellower",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Belfry Bellower.png"
+	        }
+	    },
+	    {
+	        "name": "Noble Martyr",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Angel Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Noble Martyr.png"
+	        }
+	    },
+	    {
+	        "name": "Democratic Representative",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Human Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Democratic Representative.png"
+	        }
+	    },
+	    {
+	        "name": "Intern Workforce",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "Intern Workforce.png"
+	        },
+	        "printed names": {
+	            "en": "Intern Workforce"
+	        },
+	        "back": {
+	            "name": "Site Management",
+	            "printed_names": {
+	                "en": "Site Management"
+	            },
+	            "image_uris": {
+	                "en": "Site Management.png"
+	            },
+	            "type": "Sorcery"
+	        }
+	    },
+	    {
+	        "name": "Worksite Accident",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Worksite Accident.png"
+	        }
+	    },
+	    {
+	        "name": "Start Over",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Start Over.png"
+	        }
+	    },
+	    {
+	        "name": "Sub Sandwich",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Artifact — Food ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Sub Sandwich.png"
+	        }
+	    },
+	    {
+	        "name": "Lost in a Blizzard",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Snow Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Lost in a Blizzard.png"
+	        }
+	    },
+	    {
+	        "name": "Illusory Trap",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant — Trap ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Illusory Trap.png"
+	        }
+	    },
+	    {
+	        "name": "LUCA, Progenitor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Legendary Creature — Jellyfish Sponge ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?LUCA, Progenitor.png"
+	        }
+	    },
+	    {
+	        "name": "Lecturing Professor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Sphinx Advisor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Lecturing Professor.png"
+	        }
+	    },
+	    {
+	        "name": "Supergoyf",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Lhurghoyf Hero ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Supergoyf.png"
+	        }
+	    },
+	    {
+	        "name": "Thoughtless Spirit",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}",
+	        "type": "Creature — Spirit Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Thoughtless Spirit.png"
+	        }
+	    },
+	    {
+	        "name": "Ambling Island",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Artifact Creature — Turtle Discovery ",
+	        "image_uris": {
+	            "en": "Ambling Island.png"
+	        },
+	        "printed names": {
+	            "en": "Ambling Island"
+	        },
+	        "back": {
+	            "name": "Arisen Aspidochelone",
+	            "printed_names": {
+	                "en": "Arisen Aspidochelone"
+	            },
+	            "image_uris": {
+	                "en": "Arisen Aspidochelone.png"
+	            },
+	            "type": "Creature — Turtle "
+	        }
+	    },
+	    {
+	        "name": "Littjaran Mimic",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Creature — Illusion ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Littjaran Mimic.png"
+	        }
+	    },
+	    {
+	        "name": "Taxonomical Research",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Taxonomical Research.png"
+	        }
+	    },
+	    {
+	        "name": "Citation Needed",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Citation Needed.png"
+	        }
+	    },
+	    {
+	        "name": "Spiral of the Roil",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Spiral of the Roil.png"
+	        }
+	    },
+	    {
+	        "name": "Pinboard Conspiracy",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Pinboard Conspiracy.png"
+	        }
+	    },
+	    {
+	        "name": "Shoe Snapper",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Shoe Snapper.png"
+	        }
+	    },
+	    {
+	        "name": "Bloodsucking Bueracrat",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Vampire Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Bloodsucking Bueracrat.png"
+	        }
+	    },
+	    {
+	        "name": "Impish Courier",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Imp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Impish Courier.png"
+	        }
+	    },
+	    {
+	        "name": "Withering Sludge",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Ooze ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Withering Sludge.png"
+	        }
+	    },
+	    {
+	        "name": "Least Man",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Human Werewolf ",
+	        "image_uris": {
+	            "en": "Least Man.png"
+	        },
+	        "printed names": {
+	            "en": "Least Man"
+	        },
+	        "back": {
+	            "name": "Greatest Werewolf",
+	            "printed_names": {
+	                "en": "Greatest Werewolf"
+	            },
+	            "image_uris": {
+	                "en": "Greatest Werewolf.png"
+	            },
+	            "type": "Creature — Werewolf "
+	        }
+	    },
+	    {
+	        "name": "Emerald Cockroach Wasp",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature — Insect ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Emerald Cockroach Wasp.png"
+	        }
+	    },
+	    {
+	        "name": "Sanguine Imp",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Imp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Sanguine Imp.png"
+	        }
+	    },
+	    {
+	        "name": "No Good Options",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?No Good Options.png"
+	        }
+	    },
+	    {
+	        "name": "Collaborative Necromancy",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Collaborative Necromancy.png"
+	        }
+	    },
+	    {
+	        "name": "Bearing the Demon Child",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Legendary Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Bearing the Demon Child.png"
+	        }
+	    },
+	    {
+	        "name": "Ancient Mural",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Ancient Mural.png"
+	        },
+	        "printed names": {
+	            "en": "Ancient Mural"
+	        },
+	        "back": {
+	            "name": "Instructions to Havoc",
+	            "printed_names": {
+	                "en": "Instructions to Havoc"
+	            },
+	            "image_uris": {
+	                "en": "Instructions to Havoc.png"
+	            },
+	            "type": "Artifact"
+	        }
+	    },
+	    {
+	        "name": "Scrap Enthusiast",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Goblin Sorcerer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Scrap Enthusiast.png"
+	        }
+	    },
+	    {
+	        "name": "Casper Havesh, Atlas Dragonward",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Legendary Creature — Kobold ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Casper Havesh, Atlas Dragonward.png"
+	        }
+	    },
+	    {
+	        "name": "Weird Wizard",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Weird Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Weird Wizard.png"
+	        }
+	    },
+	    {
+	        "name": "Gef, the 8th Wonder",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Legendary Enchantment Creature — Mongoose  Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Gef, the 8th Wonder.png"
+	        }
+	    },
+	    {
+	        "name": "Choleric Dragon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Choleric Dragon.png"
+	        }
+	    },
+	    {
+	        "name": "Thunder Conjurer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{R}{R}",
+	        "type": "Creature — Elemental Spellshaper ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Thunder Conjurer.png"
+	        }
+	    },
+	    {
+	        "name": "Miniscule Goblin",
+	        "rarity": "uncommon",
+	        "mana_cost": "{0}",
+	        "type": "Creature — Goblin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Miniscule Goblin.png"
+	        }
+	    },
+	    {
+	        "name": "Roll the Dice",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Roll the Dice.png"
+	        }
+	    },
+	    {
+	        "name": "Whirling Blade Trap",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Sorcery — Arcane Trap ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Whirling Blade Trap.png"
+	        }
+	    },
+	    {
+	        "name": "Spitting Fumarole",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Snow Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Spitting Fumarole.png"
+	        }
+	    },
+	    {
+	        "name": "Abandoned Mineshaft",
+	        "mana_cost": "{1}{R}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Abandoned Mineshaft.png"
+	        },
+	        "printed names": {
+	            "en": "Abandoned Mineshaft"
+	        },
+	        "back": {
+	            "name": "Dwarven Prospector",
+	            "printed_names": {
+	                "en": "Dwarven Prospector"
+	            },
+	            "image_uris": {
+	                "en": "Dwarven Prospector.png"
+	            },
+	            "type": "Creature — Dwarf "
+	        }
+	    },
+	    {
+	        "name": "Phlegmatic Imp",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Imp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Phlegmatic Imp.png"
+	        }
+	    },
+	    {
+	        "name": "Great Cultivator",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Great Cultivator.png"
+	        }
+	    },
+	    {
+	        "name": "Aspiring Transhumanist",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Human Citizen ",
+	        "image_uris": {
+	            "en": "Aspiring Transhumanist.png"
+	        },
+	        "printed names": {
+	            "en": "Aspiring Transhumanist"
+	        },
+	        "back": {
+	            "name": "Simic Fanaticist",
+	            "printed_names": {
+	                "en": "Simic Fanaticist"
+	            },
+	            "image_uris": {
+	                "en": "Simic Fanaticist.png"
+	            },
+	            "type": "Creature — Human Jellyfish Cat "
+	        }
+	    },
+	    {
+	        "name": "Riverclan Hunter",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Cat Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Riverclan Hunter.png"
+	        }
+	    },
+	    {
+	        "name": "Mary, Tusked Steed",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Elephant Mount ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Mary, Tusked Steed.png"
+	        }
+	    },
+	    {
+	        "name": "Clutch of Eggs",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Dinosaur Egg ",
+	        "image_uris": {
+	            "en": "Clutch of Eggs.png"
+	        },
+	        "printed names": {
+	            "en": "Clutch of Eggs"
+	        },
+	        "back": {
+	            "name": "Chittering Hatchling",
+	            "printed_names": {
+	                "en": "Chittering Hatchling"
+	            },
+	            "image_uris": {
+	                "en": "Chittering Hatchling.png"
+	            },
+	            "type": "Creature — Dinosaur "
+	        }
+	    },
+	    {
+	        "name": "Oozedra",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{G}{G}",
+	        "type": "Creature — Ooze Hydra ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Oozedra.png"
+	        }
+	    },
+	    {
+	        "name": "Hibernating Colony",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{2}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Hibernating Colony.png"
+	        }
+	    },
+	    {
+	        "name": "Forgotten Stockpile",
+	        "mana_cost": "{2}{G}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Forgotten Stockpile.png"
+	        },
+	        "printed names": {
+	            "en": "Forgotten Stockpile"
+	        },
+	        "back": {
+	            "name": "Forgotten Recipes",
+	            "printed_names": {
+	                "en": "Forgotten Recipes"
+	            },
+	            "image_uris": {
+	                "en": "Forgotten Recipes.png"
+	            },
+	            "type": "Artifact"
+	        }
+	    },
+	    {
+	        "name": "Rage Powder Trap",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Instant — Trap ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Rage Powder Trap.png"
+	        }
+	    },
+	    {
+	        "name": "Melon Catapult",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Melon Catapult.png"
+	        }
+	    },
+	    {
+	        "name": "Pop Alchemist",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Bard Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Pop Alchemist.png"
+	        }
+	    },
+	    {
+	        "name": "Crumbling Church",
+	        "mana_cost": "{1}{W}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Crumbling Church.png"
+	        },
+	        "printed names": {
+	            "en": "Crumbling Church"
+	        },
+	        "back": {
+	            "name": "Protoangel",
+	            "printed_names": {
+	                "en": "Protoangel"
+	            },
+	            "image_uris": {
+	                "en": "Protoangel.png"
+	            },
+	            "type": "Creature — Angel "
+	        }
+	    },
+	    {
+	        "name": "Charred Bones",
+	        "mana_cost": "{W}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Charred Bones.png"
+	        },
+	        "printed names": {
+	            "en": "Charred Bones"
+	        },
+	        "back": {
+	            "name": "Ancestor Hominin",
+	            "printed_names": {
+	                "en": "Ancestor Hominin"
+	            },
+	            "image_uris": {
+	                "en": "Ancestor Hominin.png"
+	            },
+	            "type": "Creature — Human "
+	        }
+	    },
+	    {
+	        "name": "Embodiment of Discipline",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Embodiment of Discipline.png"
+	        }
+	    },
+	    {
+	        "name": "Chorus of the Angels",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Chorus of the Angels.png"
+	        }
+	    },
+	    {
+	        "name": "Western Clouds",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{X}{W}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Western Clouds.png"
+	        }
+	    },
+	    {
+	        "name": "Mistress of Tithes",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Creature — Angel Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Mistress of Tithes.png"
+	        }
+	    },
+	    {
+	        "name": "Indie Alchemist",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Bard Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Indie Alchemist.png"
+	        }
+	    },
+	    {
+	        "name": "Heirloom Scrying Orb",
+	        "mana_cost": "{3}{U}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Heirloom Scrying Orb.png"
+	        },
+	        "printed names": {
+	            "en": "Heirloom Scrying Orb"
+	        },
+	        "back": {
+	            "name": "Protosphinx",
+	            "printed_names": {
+	                "en": "Protosphinx"
+	            },
+	            "image_uris": {
+	                "en": "Protosphinx.png"
+	            },
+	            "type": "Creature — Sphinx "
+	        }
+	    },
+	    {
+	        "name": "Deepsea Pottery",
+	        "mana_cost": "{U}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Deepsea Pottery.png"
+	        },
+	        "printed names": {
+	            "en": "Deepsea Pottery"
+	        },
+	        "back": {
+	            "name": "Ancestor Merfolk",
+	            "printed_names": {
+	                "en": "Ancestor Merfolk"
+	            },
+	            "image_uris": {
+	                "en": "Ancestor Merfolk.png"
+	            },
+	            "type": "Creature — Merfolk "
+	        }
+	    },
+	    {
+	        "name": "Embodiment of the Archive",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{U}",
+	        "type": "Enchantment Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Embodiment of the Archive.png"
+	        }
+	    },
+	    {
+	        "name": "Cosi's Prankster",
+	        "rarity": "rare",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Merfolk Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Cosi's Prankster.png"
+	        }
+	    },
+	    {
+	        "name": "Paralyzing Prophecy",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Paralyzing Prophecy.png"
+	        }
+	    },
+	    {
+	        "name": "Arcane Fusion",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{U}",
+	        "type": "Sorcery — Arcane ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Arcane Fusion.png"
+	        }
+	    },
+	    {
+	        "name": "Punk Alchemist",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Bard Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Punk Alchemist.png"
+	        }
+	    },
+	    {
+	        "name": "Stone-Carved Sigil",
+	        "mana_cost": "{2}{B}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Stone-Carved Sigil.png"
+	        },
+	        "printed names": {
+	            "en": "Stone-Carved Sigil"
+	        },
+	        "back": {
+	            "name": "Protodemon",
+	            "printed_names": {
+	                "en": "Protodemon"
+	            },
+	            "image_uris": {
+	                "en": "Protodemon.png"
+	            },
+	            "type": "Creature — Demon "
+	        }
+	    },
+	    {
+	        "name": "Ominous Sarcophagus",
+	        "mana_cost": "{B}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Ominous Sarcophagus.png"
+	        },
+	        "printed names": {
+	            "en": "Ominous Sarcophagus"
+	        },
+	        "back": {
+	            "name": "Ancestor Vampire",
+	            "printed_names": {
+	                "en": "Ancestor Vampire"
+	            },
+	            "image_uris": {
+	                "en": "Ancestor Vampire.png"
+	            },
+	            "type": "Creature — Vampire "
+	        }
+	    },
+	    {
+	        "name": "Embodiment of Rot",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}",
+	        "type": "Enchantment Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Embodiment of Rot.png"
+	        }
+	    },
+	    {
+	        "name": "Pox of Demons",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Pox of Demons.png"
+	        }
+	    },
+	    {
+	        "name": "Fell Drain",
+	        "rarity": "rare",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Fell Drain.png"
+	        }
+	    },
+	    {
+	        "name": "Persistent Pursuer",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Persistent Pursuer.png"
+	        }
+	    },
+	    {
+	        "name": "EDM Alchemist",
+	        "rarity": "rare",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Bard Sorcerer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?EDM Alchemist.png"
+	        }
+	    },
+	    {
+	        "name": "Volcanic Digsite",
+	        "mana_cost": "{2}{R}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Volcanic Digsite.png"
+	        },
+	        "printed names": {
+	            "en": "Volcanic Digsite"
+	        },
+	        "back": {
+	            "name": "Protodragon",
+	            "printed_names": {
+	                "en": "Protodragon"
+	            },
+	            "image_uris": {
+	                "en": "Protodragon.png"
+	            },
+	            "type": "Creature — Dragon "
+	        }
+	    },
+	    {
+	        "name": "Heirloom Spear",
+	        "mana_cost": "{R}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Heirloom Spear.png"
+	        },
+	        "printed names": {
+	            "en": "Heirloom Spear"
+	        },
+	        "back": {
+	            "name": "Ancestor Goblin",
+	            "printed_names": {
+	                "en": "Ancestor Goblin"
+	            },
+	            "image_uris": {
+	                "en": "Ancestor Goblin.png"
+	            },
+	            "type": "Creature — Goblin "
+	        }
+	    },
+	    {
+	        "name": "Embodiment of Intuition",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Embodiment of Intuition.png"
+	        }
+	    },
+	    {
+	        "name": "Sparking Dragonflame",
+	        "rarity": "rare",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Sparking Dragonflame.png"
+	        }
+	    },
+	    {
+	        "name": "Excitable Drake",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Excitable Drake.png"
+	        }
+	    },
+	    {
+	        "name": "Dragonwrought Sorcerer",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Creature — Dragon Kobold Sorcerer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Dragonwrought Sorcerer.png"
+	        }
+	    },
+	    {
+	        "name": "Folk Alchemist",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Bard Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Folk Alchemist.png"
+	        }
+	    },
+	    {
+	        "name": "Fossilized Vertebrae",
+	        "mana_cost": "{3}{G}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Fossilized Vertebrae.png"
+	        },
+	        "printed names": {
+	            "en": "Fossilized Vertebrae"
+	        },
+	        "back": {
+	            "name": "Protohydra",
+	            "printed_names": {
+	                "en": "Protohydra"
+	            },
+	            "image_uris": {
+	                "en": "Protohydra.png"
+	            },
+	            "type": "Creature — Hydra "
+	        }
+	    },
+	    {
+	        "name": "Mossy Shrine",
+	        "mana_cost": "{G}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Mossy Shrine.png"
+	        },
+	        "printed names": {
+	            "en": "Mossy Shrine"
+	        },
+	        "back": {
+	            "name": "Ancestor Elf",
+	            "printed_names": {
+	                "en": "Ancestor Elf"
+	            },
+	            "image_uris": {
+	                "en": "Ancestor Elf.png"
+	            },
+	            "type": "Creature — Elf "
+	        }
+	    },
+	    {
+	        "name": "Embodiment of Renewal",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}",
+	        "type": "Enchantment Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Embodiment of Renewal.png"
+	        }
+	    },
+	    {
+	        "name": "Yedora's Apprentice",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Treefolk Druid ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Yedora's Apprentice.png"
+	        }
+	    },
+	    {
+	        "name": "Splitting Heads",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Splitting Heads.png"
+	        }
+	    },
+	    {
+	        "name": "Grave-Troll's Teachings",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Grave-Troll's Teachings.png"
+	        }
+	    },
+	    {
+	        "name": "The Demon Child",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{B}",
+	        "type": "Legendary Creature — Human Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?The Demon Child.png"
+	        }
+	    },
+	    {
+	        "name": "Hidden Temple",
+	        "mana_cost": "{2}{W}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Hidden Temple.png"
+	        },
+	        "printed names": {
+	            "en": "Hidden Temple"
+	        },
+	        "back": {
+	            "name": "Redemption",
+	            "printed_names": {
+	                "en": "Redemption"
+	            },
+	            "image_uris": {
+	                "en": "Redemption.png"
+	            },
+	            "type": "Enchantment"
+	        }
+	    },
+	    {
+	        "name": "Soul of Xerex",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Soul of Xerex.png"
+	        }
+	    },
+	    {
+	        "name": "Imposing Tower",
+	        "mana_cost": "{3}{U}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Imposing Tower.png"
+	        },
+	        "printed names": {
+	            "en": "Imposing Tower"
+	        },
+	        "back": {
+	            "name": "Spellbook of Everything",
+	            "printed_names": {
+	                "en": "Spellbook of Everything"
+	            },
+	            "image_uris": {
+	                "en": "Spellbook of Everything.png"
+	            },
+	            "type": "Legendary Artifact"
+	        }
+	    },
+	    {
+	        "name": "Soul of Fiora",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Soul of Fiora.png"
+	        }
+	    },
+	    {
+	        "name": "Oracle Bone Pit",
+	        "mana_cost": "{B}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Oracle Bone Pit.png"
+	        },
+	        "printed names": {
+	            "en": "Oracle Bone Pit"
+	        },
+	        "back": {
+	            "name": "Scalpular Divinations",
+	            "printed_names": {
+	                "en": "Scalpular Divinations"
+	            },
+	            "image_uris": {
+	                "en": "Scalpular Divinations.png"
+	            },
+	            "type": "Artifact"
+	        }
+	    },
+	    {
+	        "name": "Soul of Mercadia",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Soul of Mercadia.png"
+	        }
+	    },
+	    {
+	        "name": "Tattooed Mummy",
+	        "mana_cost": "{1}{R}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Tattooed Mummy.png"
+	        },
+	        "printed names": {
+	            "en": "Tattooed Mummy"
+	        },
+	        "back": {
+	            "name": "Lineage of the Sorcerer",
+	            "printed_names": {
+	                "en": "Lineage of the Sorcerer"
+	            },
+	            "image_uris": {
+	                "en": "Lineage of the Sorcerer.png"
+	            },
+	            "type": "Enchantment — Aura "
+	        }
+	    },
+	    {
+	        "name": "Tarmomancer",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Lhurgoyf Spellshaper ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Tarmomancer.png"
+	        }
+	    },
+	    {
+	        "name": "Heart of the Forest",
+	        "mana_cost": "",
+	        "type": "Artifact Land — Discovery ",
+	        "image_uris": {
+	            "en": "Heart of the Forest.png"
+	        },
+	        "printed names": {
+	            "en": "Heart of the Forest"
+	        },
+	        "back": {
+	            "name": "Cradle of the World",
+	            "printed_names": {
+	                "en": "Cradle of the World"
+	            },
+	            "image_uris": {
+	                "en": "Cradle of the World.png"
+	            },
+	            "type": "Legendary Land"
+	        }
+	    },
+	    {
+	        "name": "Meticulous Librarian",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}{U}",
+	        "type": "Creature — Sphinx Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Meticulous Librarian.png"
+	        }
+	    },
+	    {
+	        "name": "Thoughtcriminal",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{B}",
+	        "type": "Creature — Specter Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Thoughtcriminal.png"
+	        }
+	    },
+	    {
+	        "name": "Delirious Bout",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{R}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Delirious Bout.png"
+	        }
+	    },
+	    {
+	        "name": "Reluctant Hedonist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Enchantment Creature — Satyr ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Reluctant Hedonist.png"
+	        }
+	    },
+	    {
+	        "name": "Meddling Metrologist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{W}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Meddling Metrologist.png"
+	        }
+	    },
+	    {
+	        "name": "Topigoth Medicinalist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{B}",
+	        "type": "Creature — Dog Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Topigoth Medicinalist.png"
+	        }
+	    },
+	    {
+	        "name": "Noggle Marauder",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{U/R}{R}",
+	        "type": "Creature — Noggle Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Noggle Marauder.png"
+	        }
+	    },
+	    {
+	        "name": "Wet Specimen Specialist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{G}",
+	        "type": "Creature — Insect Scientist ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Wet Specimen Specialist.png"
+	        }
+	    },
+	    {
+	        "name": "Fervent Archaeologist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Fervent Archaeologist.png"
+	        }
+	    },
+	    {
+	        "name": "Peer Review",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Peer Review.png"
+	        }
+	    },
+	    {
+	        "name": "Truthseeker",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Truthseeker.png"
+	        }
+	    },
+	    {
+	        "name": "Riddling Cryptography",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{B}",
+	        "type": "Kindred Instant — Sphinx ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Riddling Cryptography.png"
+	        }
+	    },
+	    {
+	        "name": "Demonic Confluence",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{R}",
+	        "type": "Kindred Instant — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Demonic Confluence.png"
+	        }
+	    },
+	    {
+	        "name": "Xenagos' Kylix",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{G}",
+	        "type": "Legendary Enchantment Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Xenagos' Kylix.png"
+	        }
+	    },
+	    {
+	        "name": "Multi-Headed Pounce",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{G}{W}",
+	        "type": "Kindred Instant — Hydra ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Multi-Headed Pounce.png"
+	        }
+	    },
+	    {
+	        "name": "Death Knell",
+	        "rarity": "rare",
+	        "mana_cost": "{W}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Death Knell.png"
+	        }
+	    },
+	    {
+	        "name": "Hoarding Desires",
+	        "rarity": "rare",
+	        "mana_cost": "{U}{R}",
+	        "type": "Kindred Instant — Dragon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Hoarding Desires.png"
+	        }
+	    },
+	    {
+	        "name": "Humoral Physician",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{G}",
+	        "type": "Creature",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Humoral Physician.png"
+	        }
+	    },
+	    {
+	        "name": "Stunning Awe",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{W}",
+	        "type": "Kindred Sorcery — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Stunning Awe.png"
+	        }
+	    },
+	    {
+	        "name": "Elan Psionicist",
+	        "mana_cost": "{1}{G}{U}",
+	        "type": "Creature — Horror Psion ",
+	        "image_uris": {
+	            "en": "Elan Psionicist.png"
+	        },
+	        "printed names": {
+	            "en": "Elan Psionicist"
+	        },
+	        "back": {
+	            "name": "Elan Uncarnate",
+	            "printed_names": {
+	                "en": "Elan Uncarnate"
+	            },
+	            "image_uris": {
+	                "en": "Elan Uncarnate.png"
+	            },
+	            "type": "Creature — Spirit Psion "
+	        }
+	    },
+	    {
+	        "name": "Leechbot",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact Creature — Leech ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Leechbot.png"
+	        }
+	    },
+	    {
+	        "name": "Build-a-Bear",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact Creature — Bear Toy ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Build-a-Bear.png"
+	        }
+	    },
+	    {
+	        "name": "Lightning-Core Harvester",
+	        "rarity": "common",
+	        "mana_cost": "{5}",
+	        "type": "Artifact Creature — Golem ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Lightning-Core Harvester.png"
+	        }
+	    },
+	    {
+	        "name": "Sword of Unity",
+	        "rarity": "common",
+	        "mana_cost": "{12}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Sword of Unity.png"
+	        }
+	    },
+	    {
+	        "name": "Shooting Star",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Shooting Star.png"
+	        }
+	    },
+	    {
+	        "name": "Army in a Can",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Food ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Army in a Can.png"
+	        }
+	    },
+	    {
+	        "name": "Bellowing Pit",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Bellowing Pit.png"
+	        }
+	    },
+	    {
+	        "name": "Hopeful Lantern",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}",
+	        "type": "Kindred Artifact — Glimmer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Hopeful Lantern.png"
+	        }
+	    },
+	    {
+	        "name": "Meteor Storm",
+	        "rarity": "uncommon",
+	        "mana_cost": "{7}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Meteor Storm.png"
+	        }
+	    },
+	    {
+	        "name": "Spawning Structure",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Spawning Structure.png"
+	        }
+	    },
+	    {
+	        "name": "Desert Digsite",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Desert ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Desert Digsite.png"
+	        }
+	    },
+	    {
+	        "name": "Coastal Wetland",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Coastal Wetland.png"
+	        }
+	    },
+	    {
+	        "name": "Escherian Library",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Escherian Library.png"
+	        }
+	    },
+	    {
+	        "name": "Maddening Temple",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Maddening Temple.png"
+	        }
+	    },
+	    {
+	        "name": "Industrial Quarry",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Industrial Quarry.png"
+	        }
+	    },
+	    {
+	        "name": "Giant Tracks",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Giant Tracks.png"
+	        }
+	    },
+	    {
+	        "name": "Spiritforge Blacksmith",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Creature — Dwarf Warlock Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Spiritforge Blacksmith.png"
+	        }
+	    },
+	    {
+	        "name": "Belligerent Bulgasari",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}{G}",
+	        "type": "Creature — Beast ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Belligerent Bulgasari.png"
+	        }
+	    },
+	    {
+	        "name": "Wailing Gwishin",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{B}",
+	        "type": "Enchantment Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Wailing Gwishin.png"
+	        }
+	    },
+	    {
+	        "name": "Assimilate",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Assimilate.png"
+	        }
+	    },
+	    {
+	        "name": "Turn Undead Trap",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant — Trap ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Turn Undead Trap.png"
+	        }
+	    },
+	    {
+	        "name": "Ice Core",
+	        "mana_cost": "{2}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Ice Core.png"
+	        },
+	        "printed names": {
+	            "en": "Ice Core"
+	        },
+	        "back": {
+	            "name": "Valakut, Bringer of Winter",
+	            "printed_names": {
+	                "en": "Valakut, Bringer of Winter"
+	            },
+	            "image_uris": {
+	                "en": "Valakut, Bringer of Winter.png"
+	            },
+	            "type": "Legendary Land"
+	        }
+	    },
+	    {
+	        "name": "Temporal Sylex",
+	        "rarity": "rare",
+	        "mana_cost": "{3}",
+	        "type": "Legendary Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Temporal Sylex.png"
+	        }
+	    },
+	    {
+	        "name": "Soul of Segovia",
+	        "rarity": "mythic",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Soul of Segovia.png"
+	        }
+	    },
+	    {
+	        "name": "Soul of Ikoria",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Avatar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Soul of Ikoria.png"
+	        }
+	    },
+	    {
+	        "name": "Nagging Mage",
+	        "rarity": "rare",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Nagging Mage.png"
+	        }
+	    },
+	    {
+	        "name": "Kraul Forager",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B/G}",
+	        "type": "Creature — Insect Citizen ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Kraul Forager.png"
+	        }
+	    },
+	    {
+	        "name": "Knuckleblade Mage",
+	        "rarity": "rare",
+	        "mana_cost": "{G}{U}{R}",
+	        "type": "Creature — Ogre Warrior Spellshaper ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Knuckleblade Mage.png"
+	        }
+	    },
+	    {
+	        "name": "Imposing Barrow",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Land",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Imposing Barrow.png"
+	        }
+	    },
+	    {
+	        "name": "Hungering Yangban",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Vampire Noble ",
+	        "image_uris": {
+	            "en": "Hungering Yangban.png"
+	        },
+	        "printed names": {
+	            "en": "Hungering Yangban"
+	        },
+	        "back": {
+	            "name": "Hunt Prey",
+	            "printed_names": {
+	                "en": "Hunt Prey"
+	            },
+	            "image_uris": {
+	                "en": "Hunt Prey.png"
+	            },
+	            "type": "Sorcery — Omen "
+	        }
+	    },
+	    {
+	        "name": "Times the Chronatog Ate",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment — Saga ",
+	        "image_uris": {
+	            "en": "Times the Chronatog Ate.png"
+	        },
+	        "printed names": {
+	            "en": "Times the Chronatog Ate"
+	        },
+	        "back": {
+	            "name": "Elder Chronatog Dissection",
+	            "printed_names": {
+	                "en": "Elder Chronatog Dissection"
+	            },
+	            "image_uris": {
+	                "en": "Elder Chronatog Dissection.png"
+	            },
+	            "type": "Instant"
+	        }
+	    },
+	    {
+	        "name": "Ninety-Nine",
+	        "mana_cost": "{R}{W}",
+	        "type": "Legendary Creature — Dragon ",
+	        "image_uris": {
+	            "en": "Ninety-Nine.png"
+	        },
+	        "printed names": {
+	            "en": "Ninety-Nine"
+	        },
+	        "back": {
+	            "name": "One Hundred, Ascended",
+	            "printed_names": {
+	                "en": "One Hundred, Ascended"
+	            },
+	            "image_uris": {
+	                "en": "One Hundred, Ascended.png"
+	            },
+	            "type": "Legendary Creature — Dragon God "
+	        }
+	    },
+	    {
+	        "name": "Ancient Roadway",
+	        "mana_cost": "{1}{W}",
+	        "type": "Artifact — Discovery ",
+	        "image_uris": {
+	            "en": "Ancient Roadway.png"
+	        },
+	        "printed names": {
+	            "en": "Ancient Roadway"
+	        },
+	        "back": {
+	            "name": "Pilgrimage Site",
+	            "printed_names": {
+	                "en": "Pilgrimage Site"
+	            },
+	            "image_uris": {
+	                "en": "Pilgrimage Site.png"
+	            },
+	            "type": "Artifact"
+	        }
+	    },
+	    {
+	        "name": "Together in Arms",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{X}{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Together in Arms.png"
+	        }
+	    },
+	    {
+	        "name": "Dampen",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Dampen.png"
+	        }
+	    },
+	    {
+	        "name": "Melancholic Miasma",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Melancholic Miasma.png"
+	        }
+	    },
+	    {
+	        "name": "Topigoth Tranfusion",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Topigoth Tranfusion.png"
+	        }
+	    },
+	    {
+	        "name": "Morbid Oppurtunity",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Morbid Oppurtunity.png"
+	        }
+	    },
+	    {
+	        "name": "Splat",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Splat.png"
+	        }
+	    },
+	    {
+	        "name": "Nightmare! Nightmare!",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Nightmare! Nightmare!.png"
+	        }
+	    },
+	    {
+	        "name": "Harass",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/mercurialism/TCA/main/TCAcockatrice-files?Harass.png"
+	        }
+	    },
+	    {
+	        "name": "Beauty of Evolution",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "Beauty of Evolution.png"
+	        },
+	        "printed names": {
+	            "en": "Beauty of Evolution"
+	        },
+	        "back": {
+	            "name": "Follow the Evolved",
+	            "printed_names": {
+	                "en": "Follow the Evolved"
+	            },
+	            "image_uris": {
+	                "en": "Follow the Evolved.png"
+	            },
+	            "type": "Enchantment"
+	        }
+	    }
+	]
+	[RareSlot(1 
