@@ -24,18 +24,18 @@
       <text>Flying, vigilance</text>
     </card>
     <card>
-      <name>Leonin Traveler</name>
+      <name>Pray-o-matic</name>
       <set rarity="common"></set>
       <prop>
         <colors>W</colors>
         <manacost>W</manacost>
         <cmc>1</cmc>
-        <type>Creature - Cat Cleric </type>
+        <type>Artifact Creature - Construct Cleric </type>
         <maintype>Creature</maintype>
-        <pt>1/1</pt>
+        <pt>0/0</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Lifelink</text>
+      <text>Modular 1 (This creature enters with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)</text>
     </card>
     <card>
       <name>Cybernertics Enthusiast</name>
@@ -61,10 +61,10 @@ Rebuild (When this creature dies, if it wasn’t an artifact, return it to the b
         <cmc>2</cmc>
         <type>Creature - Spirit </type>
         <maintype>Creature</maintype>
-        <pt>1/3</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Siphon 2: This creature gets +1/+1 and has flying until end of turn. (Remove two non -1/-1 counters from target creature you control or put two -1/-1 counters on it.)</text>
+      <text>Whenever this creature becomes tapped, you may Siphon 1. If you do, target creature you control gets +2/+2 until end of turn. (Remove a non -1/-1 counters from target creature you control or put a -1/-1 counters on it.)</text>
     </card>
     <card>
       <name>Topigoth Frontliner</name>
@@ -93,8 +93,7 @@ When this creature deals combat damage to a player, you may siphon 2. If you do,
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Mentor (Whenever this creature attacks, put a +1/+1 counter on target attacking creature with lesser power.)
-When this creature enters, put a training counter on target creature you control. (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)</text>
+      <text>When this creature enters, put a training counter on another target creature you control. (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)</text>
     </card>
     <card>
       <name>Scolding Syncophant</name>
@@ -178,10 +177,11 @@ Create a 3/3 colorless Construct creature token.</text>
         <cmc>6</cmc>
         <type>Creature - Angel Warrior </type>
         <maintype>Creature</maintype>
-        <pt>3/4</pt>
+        <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
+Eager (When this creature enters, you may activate one of its activated abilities without paying its cost.)
 Plainscycling {1} ({1}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
     </card>
     <card>
@@ -415,7 +415,7 @@ Decoy 1U (1U, Return a blocking creature you control to hand: Put this card onto
         <cmc>5</cmc>
         <type>Creature - Sphinx Advisor </type>
         <maintype>Creature</maintype>
-        <pt></pt>
+        <pt>4/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, ward—Reveal your hand. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player reveals their hand.)
@@ -449,7 +449,8 @@ Islandcycling {1} ({1}, Discard this card: Search your library for an Island car
         <pt>0/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature enters, draw a card then discard a card.
+      <text>Defender
+When this creature enters or becomes tapped, scry 1.
 Each creature you control with toughness greater than its power excavates Discoveries using its toughness rather than its power.</text>
     </card>
     <card>
@@ -625,7 +626,8 @@ Flying, lifelink</text>
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Corrode (Whenever this deals damage to a creature without a -1/-1 counter on it, put a -1/-1 counter on that creature. Otherwise, destroy that creature.)</text>
+      <text>Corrode (Whenever this deals damage to a creature without a -1/-1 counter on it, put a -1/-1 counter on that creature. Otherwise, destroy that creature.)
+{2}, {T}, Sacrifice this creature: Draw a card for each creature your opponents control with a -1/-1 counter on it.</text>
     </card>
     <card>
       <name>Eyeblight Pursuer</name>
@@ -666,11 +668,11 @@ When this creature enters or when you cast a kicked spell, target opponent loses
         <cmc>3</cmc>
         <type>Creature - Zombie </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>2/1</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Rebuild (When this creature dies, if it wasn’t an artifact, return it to the battlefield under its owner’s control except it’s an artifact in addition to its other types.)
-When this creature dies, each player discards a card for each card type this creature had when it died.</text>
+When this creature enters, put a +1/+1 counter on it for each card type it has.</text>
     </card>
     <card>
       <name>Corpseshield Warlock</name>
@@ -699,8 +701,9 @@ When this creature enters or attacks, you may sacrifice a creature. If you do, p
         <pt>3/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Defender, ward—Discard a card. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)
-Delirium — At the beginning of combat on your turn, if you have four or more card types among cards in your graveyard, this creature loses defender until end of turn.</text>
+      <text>Defender
+Delirium — At the beginning of combat on your turn, if you have four or more card types among cards in your graveyard, this creature loses defender until end of turn.
+{1}, Siphon 1: Mill 2. (Remove a non -1/-1 counters from target creature you control or put a -1/-1 counters on it.)</text>
     </card>
     <card>
       <name>Pharika&apos;s Prodigy</name>
@@ -709,12 +712,13 @@ Delirium — At the beginning of combat on your turn, if you have four or more c
         <colors>B</colors>
         <manacost>3B</manacost>
         <cmc>4</cmc>
-        <type>Enchantment Creature - Snake </type>
+        <type>Enchantment Creature - Gorgon </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>2/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Constellation — Whenever this creature or another enchantment you control enters, target creature you control gets deathtouch until end of turn.</text>
+      <text>Deathtouch
+Delirium — When this creature enters, if you have four or more card types among cards in your graveyard, create two 1/1 green and black Snake tokens with deathtouch.</text>
     </card>
     <card>
       <name>Beastly Bloodsucker</name>
@@ -739,7 +743,7 @@ Delirium — At the beginning of combat on your turn, if you have four or more c
         <cmc>6</cmc>
         <type>Creature - Demon Performer </type>
         <maintype>Creature</maintype>
-        <pt>3/2</pt>
+        <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
@@ -825,7 +829,7 @@ Destroy target creature.</text>
     </card>
     <card>
       <name>Devil Dealings</name>
-      <set rarity="common"></set>
+      <set rarity="uncommon"></set>
       <prop>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -879,7 +883,7 @@ Return target creature card from your graveyard to your hand.</text>
       <text>Flash
 Enchant creature
 Enchanted creature gets +2/+0.
-Remove a counter from enchanted creature: Return this Aura to its owner’s hand</text>
+Remove a counter from enchanted creature: Mill a card. Return this Aura to its owner’s hand</text>
     </card>
     <card>
       <name>Cybernetic Implants</name>
@@ -1011,8 +1015,9 @@ Blitz 1R</text>
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Artifact creatures you control have haste.
-Rebuild (When this creature dies, if it wasn’t an artifact, return it to the battlefield under its owner’s control except it’s an artifact in addition to its other types.)</text>
+      <text>When this creature enters, choose one —
+• Create a Treasure token.
+• Create a Junk token. (It’s an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)</text>
     </card>
     <card>
       <name>Dvati Puppeteers</name>
@@ -1039,7 +1044,7 @@ Boast — 1R: Create a 1/1 white Toy artifact creature token. If this ability wa
         <cmc>6</cmc>
         <type>Creature - Dragon </type>
         <maintype>Creature</maintype>
-        <pt>3/1</pt>
+        <pt>4/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flying, haste
@@ -1193,9 +1198,9 @@ Haste
       </prop>
       <tablerow>1</tablerow>
       <text>At the beginning of combat on your turn, roll a d6.
-1 | This Vehicle deals 1 damage to you.
-2-3 | Create a Junk token. (It’s an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)
-4-6 | This Vehicle becomes an artifact creature until end of turn.</text>
+1-2 | This Vehicle deals 1 damage to you.
+3-4 | Create a Junk token. (It’s an artifact with “{T}, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)
+5-6 | This Vehicle becomes an artifact creature until end of turn.</text>
     </card>
     <card>
       <name>Segovian Hydra</name>
@@ -1466,6 +1471,7 @@ Target creature you control deals damage equal to its power to target creature.<
       <text>Flash
 Enchant creature
 When this Aura enters, enchanted creature gains hexproof until end of turn.
+Enchanted creature gets +1/+0.
 When this Aura leaves the battlefield, draw a card.</text>
     </card>
     <card>
@@ -1906,7 +1912,7 @@ Enchanted creature can’t attack or block, and its activated abilities can’t 
         <cmc>2</cmc>
         <type>Creature - Vampire Warlock </type>
         <maintype>Creature</maintype>
-        <pt>2/1</pt>
+        <pt>3/1</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Menace
@@ -1921,14 +1927,12 @@ When this deals combat damage to a player, make a deal. (To make a deal, choose 
         <colors>B</colors>
         <manacost>2B</manacost>
         <cmc>3</cmc>
-        <type>Creature - Imp </type>
+        <type>Creature - Imp Scout </type>
         <maintype>Creature</maintype>
-        <pt>1/2</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Flying, haste, phasing (This phases in or out before you untap during each of your untap steps. While it’s phased out, it’s treated as though it doesn’t exist.)
-When this creature phases out, lose 2 life.
-When this creature phases in, draw a card.</text>
+      <text>This creature has flying and haste as long as you’ve sacrificed a permanent or removed a counter from a permanent you control.</text>
     </card>
     <card>
       <name>Withering Sludge</name>
@@ -1939,11 +1943,11 @@ When this creature phases in, draw a card.</text>
         <cmc>4</cmc>
         <type>Creature - Ooze </type>
         <maintype>Creature</maintype>
-        <pt>0/0</pt>
+        <pt>5/5</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>This creature enters the battlefield with five +1/+1 counters on it.
-When this creature enters or attacks, Siphon 2. (Remove two non -1/-1 counters from target creature you control or put two -1/-1 counters on it.)</text>
+      <text>When this creature enters or attacks, Siphon 2.  (Remove two non -1/-1 counters from target creature you control or put two -1/-1 counters on it.)
+Each creature you control with a -1/-1 counter on it has corrode. (Whenever this deals damage to a creature without a -1/-1 counter on it, put a -1/-1 counter on that creature. Otherwise, destroy that creature.)</text>
     </card>
     <card>
       <name>Least Man</name>
@@ -1954,7 +1958,7 @@ When this creature enters or attacks, Siphon 2. (Remove two non -1/-1 counters f
         <cmc>5</cmc>
         <type>Creature - Human Werewolf </type>
         <maintype>Creature</maintype>
-        <pt>2/4</pt>
+        <pt>4/5</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters, put two -1/-1 counters on it.
@@ -1974,7 +1978,8 @@ Whenever another creature dies, remove a -1/-1 counter from this creature. Then 
         <pt>6/6</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>At end of combat, put two -1/-1 counters on each creature blocking or blocked by this creature.
+      <text>Menace
+At end of combat, put two -1/-1 counters on each creature blocking or blocked by this creature.
 ---
 (Front): Least Man</text>
     </card>
@@ -2373,7 +2378,8 @@ Whenever this creature deals combat damage to a player, create a Food token.
       </prop>
       <tablerow>2</tablerow>
       <text>Partner with Casper Havesh, Atlas Dragonward (When this creature enters, target player may put Casper Havesh into their hand from their library, then shuffle.)
-Trample</text>
+Trample
+When Mary enters, destroy target artifact.</text>
     </card>
     <card>
       <name>Clutch of Eggs</name>
@@ -2382,13 +2388,14 @@ Trample</text>
         <colors>G</colors>
         <manacost>4GG</manacost>
         <cmc>6</cmc>
-        <type>Creature - Dinosaur Egg </type>
+        <type>Artifact Creature - Dinosaur Egg Food </type>
         <maintype>Creature</maintype>
         <pt>0/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>When this creature enters the battlefield, if it isn’t a token, create two tokens that are copies of it.
 When this creature dies, return it to the battlefield transformed.
+{2}, {T}, Sacrifice this artifact: You gain  3 life.
 ---
 (Back): Chittering Hatchling</text>
       <related attach="transform">Chittering Hatchling</related>
@@ -2430,13 +2437,13 @@ If damage would be dealt to this creature while it has a +1/+1 counter on it, pr
       <set rarity="uncommon"></set>
       <prop>
         <colors>G</colors>
-        <manacost>X2G</manacost>
-        <cmc>3</cmc>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
         <type>Sorcery</type>
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Incubate 2 X times, then transform target token you control. (To incubate 2, create an Incubator token with two +1/+1 counters on it and “{2}: Transform this artifact.” It transforms into a 0/0 Phyrexian artifact creature.)</text>
+      <text>Create a 1/1 green Insect creature token for each Forest you control</text>
     </card>
     <card>
       <name>Forgotten Stockpile</name>
@@ -2487,7 +2494,7 @@ III — Create a Food token for each different counter among permanents you cont
 Target creature fights another target creature.</text>
     </card>
     <card>
-      <name>Melon Catapult</name>
+      <name>Muragandan Spring</name>
       <set rarity="uncommon"></set>
       <prop>
         <colors>G</colors>
@@ -2497,9 +2504,8 @@ Target creature fights another target creature.</text>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Eager (When this creature enters, you may activate one of its activated abilities without paying its cost.)
-{2}, {T}: Create a Food token.
-{2}, {T}, Sacrifice a Food: Deal 3 damage to target creature with flying.</text>
+      <text>When this artifact enters or at the beginning of combat on your turn, put a +1/+1 counter on target creature you control.
+Evoke 1G (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters.)</text>
     </card>
     <card>
       <name>Pop Alchemist</name>
@@ -2598,7 +2604,7 @@ III — You may sacrifice an artifact. If you do, draw a card.
       <tablerow>2</tablerow>
       <text>Changeling
 As this creature enters, choose Human, Angel, or Cleric.
-Whenever a creature of the chosen type enters or attacks, you may have it repent 1. (Put a +1/+1 counter on this creature and tap it. If it was already tapped, put a stun counter on it.)</text>
+Whenever a creature of the chosen type enters or attacks, you may have it repent 2. (Put two +1/+1 counters on this creature and tap it. If it was already tapped, put a stun counter on it.)</text>
     </card>
     <card>
       <name>Chorus of the Angels</name>
@@ -2992,7 +2998,7 @@ When this creature dies, it deals damage equal to its power to any target.
       </prop>
       <tablerow>1</tablerow>
       <text>Excavate 1 (When this artifact enters or you tap any number of creatures you control with total power 1 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
-I — Destroy target artifact.
+I — Destroy up to one target artifact.
 II — This Discovery deals 1 damage to each opponent.
 III — You may discard a card. If you do, draw a card.
 ---
@@ -3028,7 +3034,8 @@ III — You may discard a card. If you do, draw a card.
       <tablerow>2</tablerow>
       <text>Changeling
 As this creature enters, choose Goblin, Dragon, or Sorcerer.
-At the beginning of combat, target creature of the chosen type bookburns. (You may discard any number of cards. If you discarded a card this way, draw a card and that creature gets +X/+0 and gains haste until end of turn, where X is the number of card types among cards discarded this way.)</text>
+Whenever you cast a creature of the chosen type, it gains eager until end of turn.
+Creatures you control of the chosen type have “{2}, {T}: Deal 1 damage to target opponent.”</text>
     </card>
     <card>
       <name>Sparking Dragonflame</name>
@@ -3339,7 +3346,7 @@ III — Exile up to three target instants and/or sorcery cards in your graveyard
       <tablerow>2</tablerow>
       <text>Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)
 Eager
-4BB: Any number of other target creatures controlled by different players connives X, where X is twice the number of creatures chosen this way.
+4BB: Target creature connives X, where X is its power.
 4BB: Exile this creature. If you do, you become the monarch and create a black 1/1 Assassin creature token with deathtouch.</text>
     </card>
     <card>
@@ -3389,7 +3396,7 @@ III — Add B for each creature card in your graveyard.
       <text>Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)
 Eager
 3RR: You may sacrifice a land or discard a card. If you do, draw two cards and create two Treasure tokens.
-3RR: Exile this creature. If you do, creatures get +X/+0 until end of turn, where X is the number of nonbasic lands your opponent controls, then each player sacrifices a nonbasic land.</text>
+3RR: Exile this creature. If you do, creatures you control get +X/+0 until end of turn, where X is the number of land cards in your graveyard.</text>
     </card>
     <card>
       <name>Tattooed Mummy</name>
@@ -3504,7 +3511,7 @@ WU: Exile target card from your graveyard. If you do, draw a card.</text>
         <cmc>4</cmc>
         <type>Creature - Specter Warlock </type>
         <maintype>Creature</maintype>
-        <pt>4/3</pt>
+        <pt>3/4</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Scrying, surveilling, and searching, counts as committing a crime.
@@ -3659,7 +3666,8 @@ If a permanent would enter the battlefield transformed, exile it instead.</text>
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>The next instant or sorcery spell you cast this turn has cipher. (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)</text>
+      <text>The next instant or sorcery spell you cast this turn has cipher. (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)
+Draw a card.</text>
     </card>
     <card>
       <name>Demonic Confluence</name>
@@ -4170,7 +4178,7 @@ X3C, {T}, Exile Temporal Sylex: Destroy each nonland permanent with mana value X
 -6: 3WW: Exile this creature. If you do, destroy all creatures with mana value 4 or greater.</text>
     </card>
     <card>
-      <name>Soul of Ikoria</name>
+      <name>Soul of Moag</name>
       <set rarity="mythic"></set>
       <prop>
         <colors>G</colors>
@@ -4181,11 +4189,10 @@ X3C, {T}, Exile Temporal Sylex: Destroy each nonland permanent with mana value X
         <pt>6/6</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Mutate 4GG
+      <text>Trample
 Eager
-Whenever this creature mutates, you may activate one of its activated abilities without paying its costs.
-4GG: Each non-Human creature card in your hand gains mutate until end of turn. Its mutate cost is equal to its mana cost.
-4GG: Exile this creature. If you do, destroy all artifacts and enchantments.</text>
+4GG: Destroy up to one target artifact or enchantment and up to one other target artifact or enchantment
+Domain — 4GG: Exile this creature. If you do, create a 1/1 green Forest Dryad land creature token for each basic land type among lands you control.</text>
     </card>
     <card>
       <name>Nagging Mage</name>
@@ -4280,7 +4287,7 @@ Create a Blood token. (then shuffle this card into its owner’s library.)</text
         <maintype>Enchantment</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>
+      <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Skip your next turn. If you do, target creature gets +3/+3 until end of turn.
 II — Draw three cards.
 III — Exile this Saga, then cast it transformed.
@@ -4304,39 +4311,40 @@ Each opponent skips their next turn. For each turn skipped this way, put three +
 (Front): Times the Chronatog Ate</text>
     </card>
     <card>
-      <name>Ninety-Nine</name>
-      <set rarity="rare" splitterPath="/Ninety-Nine.png" ></set>
+      <name>Ancient Spark</name>
+      <set rarity="rare" splitterPath="/Ancient Spark.png" ></set>
       <prop>
-        <colors>WR</colors>
-        <manacost>RW</manacost>
-        <cmc>2</cmc>
-        <type>Legendary Creature - Dragon </type>
-        <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Artifact - Discovery </type>
+        <maintype>Artifact</maintype>
       </prop>
-      <tablerow>2</tablerow>
-      <text>Haste
-When Ninety-Nine creature enters, target opponent creates a 2/2 white Noble creature token with vigilance.
-Whenever a Noble dies, transform Ninety-Nine.
+      <tablerow>1</tablerow>
+      <text>Excavate 4 (When this artifact enters or you tap any number of creatures you control with total power 4 or more, add an excavation counter. Exile this and return it to the battlefield transformed after III.)
+I — Exile target nonland permanent.
+II — Each player sacrifices a land.
+III — Exile target creature you control with an awaken counter on it.
 ---
-(Back): One Hundred, Ascended</text>
-      <related attach="transform">One Hundred, Ascended</related>
+(Back): Protoplaneswalker</text>
+      <related attach="transform">Protoplaneswalker</related>
     </card>
     <card>
-      <name>One Hundred, Ascended</name>
-      <set rarity="rare" splitterPath="/One Hundred, Ascended.png" ></set>
+      <name>Protoplaneswalker</name>
+      <set rarity="rare" splitterPath="/Protoplaneswalker.png" ></set>
       <prop>
-        <colors>U</colors>
+        <colors></colors>
         <manacost></manacost>
-        <cmc>2</cmc>
-        <type>Legendary Creature - Dragon God </type>
-        <pt>3/3</pt>
+        <cmc>7</cmc>
+        <type>Legendary Planeswalker</type>
+        <loyalty>7</loyalty>
       </prop>
-      <tablerow>2</tablerow>
-      <text>Flying, trample
-When this creature transforms into One Hundred or attacks, untap up to three target lands you control.
+      <tablerow>1</tablerow>
+      <text>[+2]: This planeswalker becomes a copy of a creature card exiled with an awaken counter on it until end of turn.
+[-X]: Add X mana in any combination of colors.
+[-13]: Shuffle your hand and graveyard into your library, then draw seven cards.
 ---
-(Front): Ninety-Nine</text>
+(Front): Ancient Spark</text>
     </card>
     <card>
       <name>Ancient Roadway</name>
@@ -4431,7 +4439,7 @@ Draw a card.</text>
     </card>
     <card>
       <name>Morbid Oppurtunity</name>
-      <set rarity="uncommon"></set>
+      <set rarity="common"></set>
       <prop>
         <colors>B</colors>
         <manacost>1B</manacost>
